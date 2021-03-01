@@ -1,0 +1,48 @@
+---
+layout: post
+title:  "Exercise 1"
+date:   2021-02-26 12:21:16 -0500
+categories: jekyll update
+---
+# Work Log
+
+    * Thursday, 1/7 3:00pm-4:30pm; Found and cleaned primary source; ran initial Voyant test.
+    * Friday, 1/8 11:30am-12:00pm; Attended workshop session
+    * Sunday, 1/10 11:30am-12:00pm; Worked on transforming sonnets into tabular data
+    * Monday, 1/11; 7:30am- 8:00am; 11:00am- 11:30am; Used Palladio; attended workshop session;
+
+# Exercise Description
+
+I found a copy of Charlotte Smith’s ninth edition of Elegiac Sonnets and Other Poems, Volume I from the Internet Archive. Although I intend to use both the first and second volumes of this collection, I only cleaned the first ten sonnets in Sublime Text for the sake of time. The titles of which are the following:
+
+- Sonnet I: [untitled]
+- Sonnet II: Written at the Close of Spring
+- Sonnet III: To a Nightingale
+- Sonnet IV: To the Moon
+- Sonnet V: To the South Downs
+- Sonnet VI: To Hope
+- Sonnet VII: On the Departure of the Nightingale
+- Sonnet VIII: To Spring
+- Sonnet IX: [untitled]
+- Sonnet X: To Mrs. G
+
+I will continue to work with the rest of the volumes throughout the semester independently. Since I intend for this exercise to be an extension of my dissertation, I will hone my focus on sound words mentioned in Smith’s sonnets.
+
+# Cleaning Process and Decisions
+
+To prepare the plain text file, I manually removed titles, unnecessary footnotes and copyright information from my document. Unlike my previous experiences with cleaning texts, I had to decide how to deal with the messy OCR and the persistent errors surrounding the long s. I chose to manually remedy these errors and change them to modern spelling while comparing my changes with the digitized version. In the future, I will work on trying to figure out how to use regex to work around this eighteenth-century idiosyncratic relic.
+
+I then used regex101 to remove all punctuation with [[:punct:]], which seems like this program’s version of gsub(), which I usually work with in R Studio. I did this to try a new method to circumvent quirky issues in my current script for word frequency calculations in my dissertation. My current script can’t process words like “belov’d” that are shortened to fit in poetic meter, and it replaces the apostrophe with an “Æ” symbol. It also inconsistently treats words separated by a long dash as a single word so that “lo—there” would be seen as “lothere.” I will continue to use this function to clean up my raw texts before processing them in R because it seems like a very effective workaround for my problem.
+
+Voyant Findings After importing my roughly cleaned file into Voyant, I learned that “Ah” (14 times) was the most frequently used word in my corpus, which is interesting for my discussion on sound considering that it is an onomatopoeia. This is a significant finding considering the second most frequently used word is a three-way tie between long, love, shall with 6 instances. See below for the initial topic modeling and word frequency findings:
+
+# Palladio Findings
+
+I was most interested in transforming Smith’s sonnets into tabular data by using Voyant to generate an initial word frequency test. I then uploaded the data into Palladio to play around with its features. Although Palladio seems more suitable for a project that focuses on geography and has more than two categories for information, I did enjoy its “backwards” method of classifying my word frequencies with sorting the terms into a single column based on their shared frequency.
+
+Frequency Term 1 adieu, affections, air, anemonies, anew 2 sorrow's, paint, stream, sounds, path, pensive, primrose, remain, renew, rest, rose, scene, shades, shaft, sigh, year, muse, lot, like, life's, ills, hours, hills, head, tale, green, friends, flow, far, eye, dwell, oblivion, despair, delusions, death, cup, hand, clouds, children, blue, bird, best, belov'd, bell, art, alas, young, ye, cruel, drest, tho, thorn, thro, till, vale, vernal, victims, wove, released, th 3 wild, care, breast, bring, come, cure, delight, early, fade, felt, garlands, nest, night, turf, sing, song, sooth, woe 4 tender, dear, fair, heart, pain, pale, poor, soft, sorrow, spring 5 flowers, sad, sweet 6 long, love, shall 14 ah
+
+# Questions Moving Forward
+
+    * How do exclamatory words (ah, oh, o, lo) relate to sound?
+    * How should I classify these words based on sound? (i.e. sound objects, sound actors, sound emitters…)

@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Exercise 3"
+date:   2021-02-26 12:21:16 -0500
+categories: jekyll update
+---
+# Work Log
+
+    - Thursday, 1/28 (9:00am-11:00am): spent too much time organizing Github.
+    - Friday, 1/29 (9:00 am-12:00pm): fixed errors caused by omitting apostrophes.
+    - Tuesday, 2/2 (7:30am-11:30am): reuploaded files to Github; formatted worklogs to document changes.
+
+# Exercise Description
+I continued cleaning up poem files and optimizing them to be placed on Github. I also considered the best way to break up my units of data for my project.
+
+# File
+My corpus is comprised of three volumes of Charlotte Smith's poetry with individual poems separated by volume.
+
+# Line
+Each plain text file is a single poem isolated to one line.
+
+# Intermediate divisions
+The only divisions I am concerned with are the divisions between individual poems and categorizing them within their original volume of poetry.
+
+# Documentation
+Detailed documentation for cleaning can be found under Exercise 3.
