@@ -25,14 +25,14 @@ description: >- # this means to ignore newlines until "baseurl:"
   In this sense, my project goal is twofold:
   * I am interested in creating a dissertation that uses digital tools in literary studies to show how they can unveil new insights and alternative paths for approaching my topic. And, more importantly—for me, at least—I will make all my labor transparent so that other scholars could emulate what I’ve done in their own projects (basically making this dissertation a keystone for future literary scholars, much like Amanda Visconti has done with her own dissertation);
    * Secondly, I aim to better understand how soundscapes and landscapes are associated with nationalism in these poets’ works. To do this, I will consider how sound words signal connotation of home or difference through varying degrees of music, noise, and/or silence.
-   
-The question at hand is-- How do I write a dissertation that accomplishes both objectives? Because the original model of a traditional literary dissertation doesn’t really fit with what I am trying to accomplish, I need to reevaluate how I present my research and the labor and effort I put into my digital tools.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "http://127.0.0.1:4000/" # the base hostname & protocol for your site, e.g. http://example.com
+   The question at hand is-- How do I write a dissertation that accomplishes both objectives? Because the original model of a traditional literary dissertation doesn’t really fit with what I am trying to accomplish, I need to reevaluate how I present my research and the labor and effort I put into my digital tools.
+
+baseurl: "/dissertation" # the subpath of your site, e.g. /blog
+url: "https:HornerHolly.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: HornerHolly
 
 # Build settings
-theme: hyde
+theme: minima
 plugins:
   - jekyll-feed
 
