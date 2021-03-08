@@ -15,22 +15,22 @@ I worked on mapping through basic text-mining in Topic Modeling.
 # Sample Corpus
 I used the Beachy Head plaintext files for this experiment. I used 13 separate plaintext files for each poem for this exercise. See below for the Metadata table: 
 
- | Title  | Volume  | Author | Year | Edition | Page Number | Total Pages |
+ Title                      | Volume                         | Author         | Year | Edition | Page # | Total Pages 
 
-|---|---|---|---|---|---|---|
-| Beachy Head  | *Beachy Head: with other poems*   |  Charlotte Smith | 1st | 1807| 1st | 241 |
-|  Truant Dove, from Pilpay, A Fable. | *Beachy Head: with other poems*  | Charlotte Smith | 1807  | 1st | 52 | 241 |
-|  The Lark's Next, a Fable from Esop. |  *Beachy Head: with other poems* |Charlotte Smith | 1807 | 1st| 69 |241 |
-| The Swallow | *Beachy Head: with other poems*   | Charlotte Smith | 1807   | 1st| 79| 241 |
-| Flora  | *Beachy Head: with other poems*   | Charlotte Smith  | 1807   | 1st| 84 | 241 |
-| Studies by the Sea |   *Beachy Head: with other poems* | Charlotte Smith  | 1807  | 1st | 100 |241 |
-|  The Horologe of the Fields | *Beachy Head: with other poems*   |Charlotte Smith  | 1807   | 1st | 110 |241 |
-| Saint Monica|  *Beachy Head: with other poems*  | Charlotte Smith | 1807   | 1st | 114 | 241 |
-| A Walk in the Shrubbery  | *Beachy Head: with other poems*   | Charlotte Smith | 1807   | 1st | 125 | 241 |
-| Hope. |  *Beachy Head: with other poems*  | Charlotte Smith | 1807   | 1st | 131 | 241|
-| Evening | *Beachy Head: with other poems*  |  Charlotte Smith | 1807  | 1st | 133 |241|
-| On Love and Folly, from the Fables of La Fontaine |*Beachy Head: with other poems*   | Charlotte Smith | 1807   | 1st | 135 |241 |
-| On the Aphorism |  *Beachy Head: with other poems* |Charlotte Smith | 1807  | 1st | 139 | 241 |
+----------------------------|--------------------------------|----------------|------|---------|--------|-------------
+ Beachy Head                |*Beachy Head: with other poems* |Charlotte Smith | 1807 | 1st     | 1      | 241         
+  Truant Dove               |*Beachy Head: with other poems* |Charlotte Smith | 1807 | 1st     | 52     | 241         
+  The Lark's Next           |*Beachy Head: with other poems* |Charlotte Smith | 1807 | 1st     | 69     | 241         
+ The Swallow                |*Beachy Head: with other poems* |Charlotte Smith | 1807 | 1st     | 79     | 241         
+ Flora                      |*Beachy Head: with other poems* |Charlotte Smith | 1807 | 1st     | 84     | 241         
+ Studies by the Sea         |*Beachy Head: with other poems* |Charlotte Smith | 1807 | 1st     | 100    | 241         
+ The Horologe of the Fields |*Beachy Head: with other poems* |Charlotte Smith | 1807 | 1st     | 110    | 241         
+ Saint Monica               |*Beachy Head: with other poems* |Charlotte Smith | 1807 | 1st     | 114    | 241         
+ A Walk in the Shrubbery    |*Beachy Head: with other poems* |Charlotte Smith | 1807 | 1st     | 125    | 241         
+ Hope.                      |*Beachy Head: with other poems* |Charlotte Smith | 1807 | 1st     | 131    | 241         
+ Evening                    |*Beachy Head: with other poems* |Charlotte Smith | 1807 | 1st     | 133    | 241         
+ On Love and Folly          |*Beachy Head: with other poems* |Charlotte Smith | 1807 | 1st     | 135    | 241         
+ On the Aphorism            |*Beachy Head: with other poems* |Charlotte Smith | 1807 | 1st     | 139    | 241         
 
 # Topic Models
 
