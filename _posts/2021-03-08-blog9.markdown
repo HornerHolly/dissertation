@@ -1,0 +1,53 @@
+---
+layout: post
+title:  "Exercise 9"
+date:   2021-03-26 12:21:16 -0500
+categories: jekyll update
+---
+# Work Log
+
+    - Monday, 3/8 (8:30am-11:00am)
+
+# Exercise Description
+
+I worked on mapping through basic text-mining in Topic Modeling.
+
+# Sample Corpus
+I used the Beachy Head plaintext files for this experiment. I used 13 separate plaintext files for each poem for this exercise. See below for the Metadata table: 
+
+ | Title  | Volume  | Author | Year | Edition | Page Number | Total Pages |
+
+|---|---|---|---|---|---|---|
+| Beachy Head  | *Beachy Head: with other poems*   |  Charlotte Smith | 1st | 1807| 1st | 241 |
+|  Truant Dove, from Pilpay, A Fable. | *Beachy Head: with other poems*  | Charlotte Smith | 1807  | 1st | 52 | 241 |
+|  The Lark's Next, a Fable from Esop. |  *Beachy Head: with other poems* |Charlotte Smith | 1807 | 1st| 69 |241 |
+| The Swallow | *Beachy Head: with other poems*   | Charlotte Smith | 1807   | 1st| 79| 241 |
+| Flora  | *Beachy Head: with other poems*   | Charlotte Smith  | 1807   | 1st| 84 | 241 |
+| Studies by the Sea |   *Beachy Head: with other poems* | Charlotte Smith  | 1807  | 1st | 100 |241 |
+|  The Horologe of the Fields | *Beachy Head: with other poems*   |Charlotte Smith  | 1807   | 1st | 110 |241 |
+| Saint Monica|  *Beachy Head: with other poems*  | Charlotte Smith | 1807   | 1st | 114 | 241 |
+| A Walk in the Shrubbery  | *Beachy Head: with other poems*   | Charlotte Smith | 1807   | 1st | 125 | 241 |
+| Hope. |  *Beachy Head: with other poems*  | Charlotte Smith | 1807   | 1st | 131 | 241|
+| Evening | *Beachy Head: with other poems*  |  Charlotte Smith | 1807  | 1st | 133 |241|
+| On Love and Folly, from the Fables of La Fontaine |*Beachy Head: with other poems*   | Charlotte Smith | 1807   | 1st | 135 |241 |
+| On the Aphorism |  *Beachy Head: with other poems* |Charlotte Smith | 1807  | 1st | 139 | 241 |
+
+# Topic Models
+
+0. 	feet doubt gloom gems awake shining wall green shrubbery mayst woos beds leathery grottos coralline lace branch starry baik crowfoot
+1. 	transient il thorny south queen paler antepast ershadow branch unheeded laves pastures divide galium birchen halcyon chrystal influence skies dyes
+2. 	thought heart felt happine love change beams throng blest fondne wife gentle great perdrix pair fate make arm blind pity
+3. 	monica saint wheat sings child ruins land birth vale pleasure po reign seat superstition slow ten sleeps heaven give bow
+4. 	air crush herds sought live sheep crown blows sprite crescent melts sea ah wey law fear fully uplands fence circled
+5. 	half buoyant insect afric ye lonely appears drest sons rough vulgar chains caverns emerge depths nurs umbels flaming epilobiums lily
+6. 	distant boy morrow ceas meal ambition conqueror beetling voice won wind shelter couch clouds meads wastes iduous earwig translucent scandix
+7. 	blo foliage wont mind unfading man fern soul evening pale la pilpay step honours nereids impearld corals fisher briny woven
+8. 	spirit lone hunger beauteous nearer team blow elms surrounded tawny england move hear reason attach man gray nature repose perchance
+9. 	er light love sea day thy night green flowers life leaves round bright time soft beneath sun thro long tide
+
+# Refence Models
+
+Based on the rough topic modeling of the 13 provided poems, I believe I need to run more poems through this topic modeling exercise to generate any thing noteworthy. Out of the 10 provided models, I believe Model # 3, and #8 have the most unified themes. Model # 3 could be labled as sentimental discourse and Model #8 seemst to be linked to oceanic landscapes and imperialism, which could be a connection to the British Navy. However, the natural themes and images are scattered pretty consistently across the generated topics.
+
+# Next Steps
+* I still need to work on cleaning up my corpus further.
