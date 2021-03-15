@@ -3,8 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 ---
-layout: home
-author_profile: true
+layout: page
+title: Home
+permalink: /home/
 ---
 # About the Author
 Holly Horner is a fourth-year PhD candidate in Literature focusing on British Romantic literature and Digital Humanities. Her research interests include the nineteenth-century gothic novel, Romantic women poets, and digital applications to literary studies. She holds a B.A. in English from Flagler College and a M.A. from Florida State University.
