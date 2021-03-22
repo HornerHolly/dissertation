@@ -38,7 +38,11 @@ header_pages:
     - index.markdown
     - about.markdown
     - aboutme.markdown
+    - blog.markdown  
     - corpus.markdown
+collections: 
+    posts: 
+        output: true
 
 
 # Exclude from processing.
