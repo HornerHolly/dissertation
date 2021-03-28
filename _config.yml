@@ -40,7 +40,7 @@ header_pages:
     - aboutme.markdown
     - blog.markdown  
     - corpus.markdown
-    - resources.markdown
+    - Resources.markdown
 collections: 
     posts: 
         output: true
