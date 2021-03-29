@@ -31,6 +31,7 @@ github_username:  HornerHolly
 
 # Build settings
 theme: minima
+    skin: dark
 plugins:
   - jekyll-feed
 
@@ -44,7 +45,7 @@ header_pages:
 collections: 
     posts: 
         output: true
-
+show_excerpts: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
