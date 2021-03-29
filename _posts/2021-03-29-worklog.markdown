@@ -50,6 +50,9 @@ Frequency Term 1 adieu, affections, air, anemonies, anew 2 sorrow's, paint, stre
     * How do exclamatory words (ah, oh, o, lo) relate to sound?
     * How should I classify these words based on sound? (i.e. sound objects, sound actors, sound emitters…)
 
+----------
+
+
 # Exercise 2
 ## Work Log
 
@@ -68,6 +71,9 @@ I uploaded PDF versions of my corpus to Google Docs to try out the platform’s 
 ## Corpus Characteristics
 
 The corpus contains three volumes of poetry by Charlotte Smith. Although I did some light cleaning, the plain text is quite messy and has frequent line breaks and errant symbols. I hope to calculate word frequencies from the project to consider the importance of sound language in her poetry. I don’t expect to see an extraordinarily high level of sound words in Smith’s corpus, but I am interested in performing a cluster analysis on the texts to see how sound words relate to other topics in her works.
+
+----------
+
 
 
 # Exercise 3
@@ -91,6 +97,10 @@ I then used Regrex101 for light cleaning. I cleaned up errant punctuation (/[[:p
 ## Phase III
 
 I continued the final cleaning process by omiting stragling letters like /s/ and /d/, which were relics from the deleted apostrophes for possessives and contractions like "Heaven's" or "leap'd." I did this using the find and replace function in SublimeText.
+
+----------
+
+
 # Exercise 4
 ## Work Log
 
@@ -113,6 +123,9 @@ The only divisions I am concerned with are the divisions between individual poem
 ## Documentation
 Detailed documentation for cleaning can be found under Exercise 3.
 
+----------
+
+
 # Exercise 5
 ## Work Log
 
@@ -129,6 +142,9 @@ I also got ahead on the Healy reading and installed/played with some of his reco
 
     OpenRefine seems to be more helpful for projects with messier data than mine.
     At this stage, Breve doesn't really show much for my data. I would be more interested in trying this tool once I've compiled my word frequencies in R. It would be interesting to compare Breve's visual with the visual packages in R.
+
+----------
+
 
 # Exercise 6
 ## Work Log
@@ -243,6 +259,9 @@ http://127.0.0.1:22353/graphics/d3cc23f0-680c-4025-9314-47ac3c18bb21.png
     - How can I map a random selection of data?
     - How do I intergrate the visual directly into Github without copying a link?
 
+----------
+
+
 # Exercise 8
 ## Work Log
 
@@ -252,6 +271,10 @@ http://127.0.0.1:22353/graphics/d3cc23f0-680c-4025-9314-47ac3c18bb21.png
 ## Exercise Description
 
 I worked on creating a Jekyll website through Github Pages and applying a functional theme to my site. 
+
+
+----------
+
 # Exercise 9
 ## Work Log
 
@@ -300,6 +323,8 @@ Based on the rough topic modeling of the 13 provided poems, I believe I need to 
 
 ## Next Steps
 * I still need to work on cleaning up my corpus further.
+
+----------
 
 
 # Exercise 10
