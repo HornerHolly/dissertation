@@ -1,0 +1,366 @@
+---
+layout: post
+title:  "Work Log"
+date:   2021-03-29 12:21:16 -0500
+categories: jekyll update
+---
+Read below for details on the weekly exercises done for my computational methods course. 
+
+# Exercise 1
+## Work Log
+
+    * Thursday, 1/7 3:00pm-4:30pm; Found and cleaned primary source; ran initial Voyant test.
+    * Friday, 1/8 11:30am-12:00pm; Attended workshop session
+    * Sunday, 1/10 11:30am-12:00pm; Worked on transforming sonnets into tabular data
+    * Monday, 1/11; 7:30am- 8:00am; 11:00am- 11:30am; Used Palladio; attended workshop session;
+
+## Exercise Description
+
+I found a copy of Charlotte Smith’s ninth edition of Elegiac Sonnets and Other Poems, Volume I from the Internet Archive. Although I intend to use both the first and second volumes of this collection, I only cleaned the first ten sonnets in Sublime Text for the sake of time. The titles of which are the following:
+
+- Sonnet I: [untitled]
+- Sonnet II: Written at the Close of Spring
+- Sonnet III: To a Nightingale
+- Sonnet IV: To the Moon
+- Sonnet V: To the South Downs
+- Sonnet VI: To Hope
+- Sonnet VII: On the Departure of the Nightingale
+- Sonnet VIII: To Spring
+- Sonnet IX: [untitled]
+- Sonnet X: To Mrs. G
+
+I will continue to work with the rest of the volumes throughout the semester independently. Since I intend for this exercise to be an extension of my dissertation, I will hone my focus on sound words mentioned in Smith’s sonnets.
+
+## Cleaning Process and Decisions
+
+To prepare the plain text file, I manually removed titles, unnecessary footnotes and copyright information from my document. Unlike my previous experiences with cleaning texts, I had to decide how to deal with the messy OCR and the persistent errors surrounding the long s. I chose to manually remedy these errors and change them to modern spelling while comparing my changes with the digitized version. In the future, I will work on trying to figure out how to use regex to work around this eighteenth-century idiosyncratic relic.
+
+I then used regex101 to remove all punctuation with [[:punct:]], which seems like this program’s version of gsub(), which I usually work with in R Studio. I did this to try a new method to circumvent quirky issues in my current script for word frequency calculations in my dissertation. My current script can’t process words like “belov’d” that are shortened to fit in poetic meter, and it replaces the apostrophe with an “Æ” symbol. It also inconsistently treats words separated by a long dash as a single word so that “lo—there” would be seen as “lothere.” I will continue to use this function to clean up my raw texts before processing them in R because it seems like a very effective workaround for my problem.
+
+Voyant Findings After importing my roughly cleaned file into Voyant, I learned that “Ah” (14 times) was the most frequently used word in my corpus, which is interesting for my discussion on sound considering that it is an onomatopoeia. This is a significant finding considering the second most frequently used word is a three-way tie between long, love, shall with 6 instances. See below for the initial topic modeling and word frequency findings:
+
+## Palladio Findings
+
+I was most interested in transforming Smith’s sonnets into tabular data by using Voyant to generate an initial word frequency test. I then uploaded the data into Palladio to play around with its features. Although Palladio seems more suitable for a project that focuses on geography and has more than two categories for information, I did enjoy its “backwards” method of classifying my word frequencies with sorting the terms into a single column based on their shared frequency.
+
+Frequency Term 1 adieu, affections, air, anemonies, anew 2 sorrow's, paint, stream, sounds, path, pensive, primrose, remain, renew, rest, rose, scene, shades, shaft, sigh, year, muse, lot, like, life's, ills, hours, hills, head, tale, green, friends, flow, far, eye, dwell, oblivion, despair, delusions, death, cup, hand, clouds, children, blue, bird, best, belov'd, bell, art, alas, young, ye, cruel, drest, tho, thorn, thro, till, vale, vernal, victims, wove, released, th 3 wild, care, breast, bring, come, cure, delight, early, fade, felt, garlands, nest, night, turf, sing, song, sooth, woe 4 tender, dear, fair, heart, pain, pale, poor, soft, sorrow, spring 5 flowers, sad, sweet 6 long, love, shall 14 ah
+
+## Questions Moving Forward
+
+    * How do exclamatory words (ah, oh, o, lo) relate to sound?
+    * How should I classify these words based on sound? (i.e. sound objects, sound actors, sound emitters…)
+
+# Exercise 2
+## Work Log
+
+    - Friday, 1/15 10:00am-11:00am; identified corpus, downloaded facsimiles of texts.
+    - Monday, 1/18 8:00am-10:00am; Experimented with Google OCR.
+    - Tuesday, 1/19 8:30am-9:30am; Created excel doc containing metadata; finished creating plain text files.
+
+## Exercise Description
+
+I located an eighth edition Elegiac Sonnets and Other Poems, volume 1 (1779), a second edition of Elegiac Sonnets, and Other Poems, volume 2 (1800), and a first edition of Beachy Head: with other poems (1807) from HathiTrust. I would have liked to have all first editions but the facsimiles for many of the older editions (particularly volume one of Elegiac Sonnets) were quite poor. I saved these original facsimiles and then prepared to process them into plaintext formatting through OCR readers.
+
+## OCR Processing and Light Cleaning
+
+I uploaded PDF versions of my corpus to Google Docs to try out the platform’s OCR and then downloaded the plaintext file versions of my corpus to SublimeText. I also did some light cleaning using Regrex101 because I wanted to practice the skills learned from last week while they were fresh in my head. I cleaned up errant punctuation (/[[:punct:]]), and tighten up general formatting. I think I figured out how to get rid of the long s. I used /[?]/gm with the function “substitution” to replace the long s symbol [?] with a traditional s and it seemed to work well.
+
+## Corpus Characteristics
+
+The corpus contains three volumes of poetry by Charlotte Smith. Although I did some light cleaning, the plain text is quite messy and has frequent line breaks and errant symbols. I hope to calculate word frequencies from the project to consider the importance of sound language in her poetry. I don’t expect to see an extraordinarily high level of sound words in Smith’s corpus, but I am interested in performing a cluster analysis on the texts to see how sound words relate to other topics in her works.
+
+
+# Exercise 3
+## Work Log
+
+    - Thursday, 1/22 (3:00pm-4:30pm): re-organized metadata
+    - Friday, 1/23 (8:30am-10:00am): gathered all plain text versions of poem; did light cleaning.
+    - Monday, 1/25 (7:30am-11:00am): finished cleaning poems and separating them into different plain text files.
+
+## Exercise Description
+
+I cleaned my corpus files to prepare publishing them into an open format on Github.
+
+## Phase I
+
+I downloaded the plaintext files of my volumes from HathiTrust. I manually omited liscencing information, chapter/volume headers, editoral footnotes, and other paratextual materials because my project is solely focused on word frequencies of the actual poems.
+
+## Phase II 
+I then used Regrex101 for light cleaning. I cleaned up errant punctuation (/[[:punct:]]), and tighten up general formatting. I think I figured out how to get rid of the long s. I used /[ſ]/gm with the function “substitution” to replace the long s symbol [ſ] with a traditional s. I used the same function to remove other recurrant errors as well.
+
+## Phase III
+
+I continued the final cleaning process by omiting stragling letters like /s/ and /d/, which were relics from the deleted apostrophes for possessives and contractions like "Heaven's" or "leap'd." I did this using the find and replace function in SublimeText.
+# Exercise 4
+## Work Log
+
+    - Thursday, 1/28 (9:00am-11:00am): spent too much time organizing Github.
+    - Friday, 1/29 (9:00 am-12:00pm): fixed errors caused by omitting apostrophes.
+    - Tuesday, 2/2 (7:30am-11:30am): reuploaded files to Github; formatted worklogs to document changes.
+
+## Exercise Description
+I continued cleaning up poem files and optimizing them to be placed on Github. I also considered the best way to break up my units of data for my project.
+
+## File
+My corpus is comprised of three volumes of Charlotte Smith's poetry with individual poems separated by volume.
+
+## Line
+Each plain text file is a single poem isolated to one line.
+
+## Intermediate divisions
+The only divisions I am concerned with are the divisions between individual poems and categorizing them within their original volume of poetry.
+
+## Documentation
+Detailed documentation for cleaning can be found under Exercise 3.
+
+# Exercise 5
+## Work Log
+
+    - Thursday, 2/4 (10:00-11:00am): spent way too much time trying to install OpenRefine. Spoiler alert: don't use Firefox.
+    - Monday, 2/8 (8:40-9:00am; 9:05-10:00am; 11:00-11:30am): experimented with Open Refine and Breve; installed RStudio packages; attended workshop on Github Desktop.
+
+## Exercise Description
+
+I uploaded my Metadata CSV file to OpenRefine. For the sake of experimenting with the tool as intended, I faceted poems that were not categorized as sonnets (indicated as N/A for Sonnet Number). In total, there are 40 non-sonnets in my corpus. I then loaded this shortened csv file into Breve to "see my data" transformed into a quick visual.
+
+I also got ahead on the Healy reading and installed/played with some of his recommended packagest for RStudio.
+
+## Observations
+
+    OpenRefine seems to be more helpful for projects with messier data than mine.
+    At this stage, Breve doesn't really show much for my data. I would be more interested in trying this tool once I've compiled my word frequencies in R. It would be interesting to compare Breve's visual with the visual packages in R.
+
+# Exercise 6
+## Work Log
+
+    - Friday, 2/12 (11:20-12:00pm; 5:00pm-6:00pm): attended lab hours; cleaned up R code for word frequency calculations.
+    - Monday, 2/15 (8:40-11:30am): experimented with Open Refine and Breve; installed RStudio packages; attended workshop on Github Desktop.
+
+## Exercise Description
+
+I restructured my tabuluar data to consider the frequencies of types of words in a single poem, rather than relying on my metadata for this exercise. To do this, I used my pre-existing RStudio code to tabulate word frequencies for all of Smith's poetry (Note: this code still needs some modification). This created a master word frequency list and one for each poem. For this excercise, I looked at "Beachy Head" the poem (not the entire volume) and sorted the word frequencies to reveal the first and last 20 words with the highest and lowest frequency. I then classified these words as either (i.e. noun, verb, adverb, conjunction, determiner etc) based on their part of speech. The full list for this can be found under the Exercise6_Parts csv on the main page.
+
+I then ran my tabular data through Breve and played around with Google Data Studio. Here is the link to my Google Data Studio experiment: https://datastudio.google.com/s/l20RMQ8if_A
+RStudio Code
+
+For the sake of backing up my data, I am including my current RStudio code for word frequencies here:
+
+## Test
+
+
+```
+rm(list=ls()) library(tm) library(SnowballC) setwd("E:/R Codes for School/Dissertation/Smith/PlainText_Smith/SmithSoundALL")
+LOOP TO ITERATE THROUGH ALL OF THE POEMS
+SETTING UP THE LOOP
+
+path = "E:/R Codes for School/Dissertation/Smith/PlainText_Smith/SmithSoundALL" file.names <- dir(path, pattern =NULL) AA_Master <- setNames(data.frame(matrix(ncol = 2, nrow = 0)), c("V1", "V2"))
+```
+
+## FOR LOOP
+
+
+```
+for(i in 1:length(file.names)){ file<-scan(file.names[i], "character", sep="\n") file<- stemDocument(file) file<-tolower(file) file<-gsub("[[:punct:]]","",file) file<-gsub("â???T","",file) #Split sentence words<-strsplit(file," ") words <- unlist(words)
+```
+
+## Calculate word frequencies
+
+
+```
+words.freq<-table(words) file<-cbind(names(words.freq),as.integer(words.freq))
+drop file name
+
+file<-file[-1,] AA_Master <- merge(x = AA_Master, y = file, by = "V1", all = TRUE) assign(file.names[i], file) }
+```
+
+## Cleaning Merged Data
+
+
+```
+AAAMaster <- AA_Master[,-1] AAAMaster[] <- lapply(AAAMaster, as.numeric) AAAMaster[is.na(AAAMaster)] <- 0 AA_Master$"Total" <- rowSums(AAAMaster[1:133], na.rm=TRUE) AAA_ALL<- AA_Master[-c(2:134)] colnames(AAA_ALL)<-c("Word", "Frequency")'
+
+remove(AA_Master) remove(AAAMaster)
+```
+
+## stopwords
+
+
+```
+b<-1 for(b in 1:length(AAA_ALL)){ AAA_ALL2 <- data.frame(AAA_ALL[!grepl(stopwords("en")[b],AAA_ALL[,1]),]) }
+```
+
+## Calculate word frequencies
+
+
+```
+words.freq2<-table(AAA_ALL2) file<-cbind(names(words.freq2),as.integer(words.freq2))
+```
+
+## Save progress
+
+
+```
+write.csv(AAA_ALL,'AAA_ALL.csv') 
+```
+# Exercise 7
+## Work Log
+
+    - Monday, 2/22 (9:00am-12:30pm): practiced Healy's R code; attended lab hours
+    - Tuesday, 2/23 (10:00am-11:00am): adjusted my visuals to be tidy.
+
+## R Code for Graphs
+### Clear workspace
+
+
+```
+rm()
+```
+
+### Library
+
+
+```
+library(tidyverse) library (gapminder) library(scales)
+```
+
+### Mapping With ggplot
+
+
+```
+p<- ggplot(data = exercise6parts, mapping =aes(x = Word, y = Frequency))
+
+p + geom_point(alpha= 0.3) + geom_smooth(method= "gam")+
+
+labs(x = "Word", y = "Frequency", title = "Word Frequencies in Charlotte Smith's Poetry", subtitle = "Top 20 words", caption = "Source: HathiTrust.
+```
+")
+### The visual
+
+http://127.0.0.1:22353/graphics/d3cc23f0-680c-4025-9314-47ac3c18bb21.png
+
+## Questions
+
+    - How can I map a random selection of data?
+    - How do I intergrate the visual directly into Github without copying a link?
+
+# Exercise 8
+## Work Log
+
+    - Friday, 2/26 (8:00am-1:00pm): worked on trouble-shooting Github website.
+    - Monday, 3/1 (8:00am-11:00am; 2:00pm-3:00pm): worked on applying themes to Jekyll site; consulted with Sarah Stanley.
+
+## Exercise Description
+
+I worked on creating a Jekyll website through Github Pages and applying a functional theme to my site. 
+# Exercise 9
+## Work Log
+
+    - Monday, 3/8 (8:30am-11:00am)
+
+## Exercise Description
+
+I worked on mapping through basic text-mining in Topic Modeling.
+
+## Sample Corpus
+I used the Beachy Head plaintext files for this experiment. I used 13 separate plaintext files for each poem for this exercise. See below for the Metadata table: 
+
+ Title                      | Volume                         | Author         | Year | Edition | Page # | Total Pages 
+
+----------------------------|--------------------------------|----------------|------|---------|--------|-------------
+ Beachy Head                |*Beachy Head: with other poems* |Charlotte Smith | 1807 | 1st     | 1      | 241         
+  Truant Dove               |*Beachy Head: with other poems* |Charlotte Smith | 1807 | 1st     | 52     | 241         
+  The Lark's Next           |*Beachy Head: with other poems* |Charlotte Smith | 1807 | 1st     | 69     | 241         
+ The Swallow                |*Beachy Head: with other poems* |Charlotte Smith | 1807 | 1st     | 79     | 241         
+ Flora                      |*Beachy Head: with other poems* |Charlotte Smith | 1807 | 1st     | 84     | 241         
+ Studies by the Sea         |*Beachy Head: with other poems* |Charlotte Smith | 1807 | 1st     | 100    | 241         
+ The Horologe of the Fields |*Beachy Head: with other poems* |Charlotte Smith | 1807 | 1st     | 110    | 241         
+ Saint Monica               |*Beachy Head: with other poems* |Charlotte Smith | 1807 | 1st     | 114    | 241         
+ A Walk in the Shrubbery    |*Beachy Head: with other poems* |Charlotte Smith | 1807 | 1st     | 125    | 241         
+ Hope.                      |*Beachy Head: with other poems* |Charlotte Smith | 1807 | 1st     | 131    | 241         
+ Evening                    |*Beachy Head: with other poems* |Charlotte Smith | 1807 | 1st     | 133    | 241         
+ On Love and Folly          |*Beachy Head: with other poems* |Charlotte Smith | 1807 | 1st     | 135    | 241         
+ On the Aphorism            |*Beachy Head: with other poems* |Charlotte Smith | 1807 | 1st     | 139    | 241         
+
+## Topic Models
+
+0. 	feet doubt gloom gems awake shining wall green shrubbery mayst woos beds leathery grottos coralline lace branch starry baik crowfoot
+1. 	transient il thorny south queen paler antepast ershadow branch unheeded laves pastures divide galium birchen halcyon chrystal influence skies dyes
+2. 	thought heart felt happine love change beams throng blest fondne wife gentle great perdrix pair fate make arm blind pity
+3. 	monica saint wheat sings child ruins land birth vale pleasure po reign seat superstition slow ten sleeps heaven give bow
+4. 	air crush herds sought live sheep crown blows sprite crescent melts sea ah wey law fear fully uplands fence circled
+5. 	half buoyant insect afric ye lonely appears drest sons rough vulgar chains caverns emerge depths nurs umbels flaming epilobiums lily
+6. 	distant boy morrow ceas meal ambition conqueror beetling voice won wind shelter couch clouds meads wastes iduous earwig translucent scandix
+7. 	blo foliage wont mind unfading man fern soul evening pale la pilpay step honours nereids impearld corals fisher briny woven
+8. 	spirit lone hunger beauteous nearer team blow elms surrounded tawny england move hear reason attach man gray nature repose perchance
+9. 	er light love sea day thy night green flowers life leaves round bright time soft beneath sun thro long tide
+
+## Refence Models
+
+Based on the rough topic modeling of the 13 provided poems, I believe I need to run more poems through this topic modeling exercise to generate any thing noteworthy. Out of the 10 provided models, I believe Model # 3, and #8 have the most unified themes. Model # 3 could be labled as sentimental discourse and Model #8 seemst to be linked to oceanic landscapes and imperialism, which could be a connection to the British Navy. However, the natural themes and images are scattered pretty consistently across the generated topics.
+
+## Next Steps
+* I still need to work on cleaning up my corpus further.
+
+
+# Exercise 10
+## Work Log
+    - Monday, 3/15 (9:30am-11:00am)
+
+## Exercise Description
+
+This week I worked on becoming familiar with Wikidata by using the Wikidata Item Tour and the Wikidata Query Service.
+
+## Getting Data from Wikidata
+
+I selected the following parameters to create a query for Charlotte Turner Smith to search for full text locations and her HathiTrust ID.
+```
+SELECT ?Charlotte_Turner_Smith ?Charlotte_Turner_SmithLabel ?author ?authorLabel ?genre ?genreLabel ?narrative_location ?narrative_locationLabel ?full_work_available_at_URL ?HathiTrust_ID WHERE {
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+  
+  OPTIONAL {  }
+  OPTIONAL {  }
+  OPTIONAL {  }
+  OPTIONAL {  }
+  OPTIONAL {  }
+  ?Charlotte_Turner_Smith wdt:P50 wd:Q442902.
+  OPTIONAL { ?Charlotte_Turner_Smith wdt:P50 ?author. }
+  OPTIONAL { ?Charlotte_Turner_Smith wdt:P136 ?genre. }
+  OPTIONAL { ?Charlotte_Turner_Smith wdt:P840 ?narrative_location. }
+  OPTIONAL { ?Charlotte_Turner_Smith wdt:P953 ?full_work_available_at_URL. }
+  OPTIONAL { ?Charlotte_Turner_Smith wdt:P1844 ?HathiTrust_ID. }
+}
+LIMIT 100
+```
+
+Here are my results from the aforementioned query:
+
+Charlote_Turner_Smith                    | Charlotte_Turner_SmithLabel                                                                             | Author                                 | Author Label           | Genre                                   | GenreLabel
+-----                                    | -----                                                                                                   | ---------                              | -----                  | -----                                   | ---- 
+http://www.wikidata.org/entity/Q5057927  | Celestina. A novel. In four volumes. By Charlotte Smith.                                                | http://www.wikidata.org/entity/Q442902 | Charlotte Turner Smith | http://www.wikidata.org/entity/Q8261    | novel
+http://www.wikidata.org/entity/Q5264659  | Desmond                                                                                                 | http://www.wikidata.org/entity/Q442902 | Charlotte Turner Smith | http://www.wikidata.org/entity/Q8261    | novel
+http://www.wikidata.org/entity/Q5373421  | Emmeline                                                                                                | http://www.wikidata.org/entity/Q442902 | Charlotte Turner Smith | http://www.wikidata.org/entity/Q192782  | gothic fiction
+http://www.wikidata.org/entity/Q19079132 | The Banished Man                                                                                        | http://www.wikidata.org/entity/Q442902 | Charlotte Turner Smith | http://www.wikidata.org/entity/Q8261    | novel
+http://www.wikidata.org/entity/Q19096892 | Retirement                                                                                              | http://www.wikidata.org/entity/Q442902 | Charlotte Turner Smith |
+http://www.wikidata.org/entity/Q19106317 | To the Moon                                                                                             | http://www.wikidata.org/entity/Q442902 | Charlotte Turner Smith | 
+http://www.wikidata.org/entity/Q28457729 | Marchmont                                                                                               | http://www.wikidata.org/entity/Q442902 | Charlotte Turner Smith | http://www.wikidata.org/entity/Q8261    | novel
+http://www.wikidata.org/entity/Q30918806 | Elegaic Sonnets                                                                                         | http://www.wikidata.org/entity/Q442902 | Charlotte Turner Smith | http://www.wikidata.org/entity/Q482	 | poetry
+http://www.wikidata.org/entity/Q77610003 | Beachy Head: with Other Poems                                                                           | http://www.wikidata.org/entity/Q442902 | Charlotte Turner Smith | http://www.wikidata.org/entity/Q482	 | poetry
+http://www.wikidata.org/entity/Q78222401 | Conversations Introducing Poetry, Chiefly on Subjects of Natural History, for the Use of Young Persons  | http://www.wikidata.org/entity/Q442902 | Charlotte Turner Smith | http://www.wikidata.org/entity/Q482	 | poetry
+http://www.wikidata.org/entity/Q78222401 | Conversations Introducing Poetry, Chiefly on Subjects of Natural History, for the Use of Young Persons  | http://www.wikidata.org/entity/Q442902 | Charlotte Turner Smith | http://www.wikidata.org/entity/Q131539  | children's literature
+http://www.wikidata.org/entity/Q80117986 | Elegiac Sonnets, by Charlotte Smith. The Fifth Edition, with Additional Sonnets and Other Poems.        | http://www.wikidata.org/entity/Q442902 | Charlotte Turner Smith | http://www.wikidata.org/entity/Q80056   | sonnet
+http://www.wikidata.org/entity/Q80119089 | Elegiac Sonnets, by Charlotte Smith. The Sixth Edition, with Additional Sonnets and Other Poems.        | http://www.wikidata.org/entity/Q442902 | Charlotte Turner Smith | http://www.wikidata.org/entity/Q80056   | sonnet
+http://www.wikidata.org/entity/Q80225204 | Ethelinde, or the Recluse of the Lake                                                                   | http://www.wikidata.org/entity/Q442902 | Charlotte Turner Smith |
+http://www.wikidata.org/entity/Q80225206 | Letters of a Solitary Wanderer                                                                          | http://www.wikidata.org/entity/Q442902 | Charlotte Turner Smith | http://www.wikidata.org/entity/Q8261    | novel
+http://www.wikidata.org/entity/Q80225206 | Letters of a Solitary Wanderer                                                                          | http://www.wikidata.org/entity/Q442902 | Charlotte Turner Smith | http://www.wikidata.org/entity/Q738473  | romance
+http://www.wikidata.org/entity/Q80225206 | Letters of a Solitary Wanderer                                                                          | http://www.wikidata.org/entity/Q442902 | Charlotte Turner Smith | http://www.wikidata.org/entity/Q8261    | novel
+http://www.wikidata.org/entity/Q80225206 | Letters of a Solitary Wanderer                                                                          | http://www.wikidata.org/entity/Q442902 | Charlotte Turner Smith | http://www.wikidata.org/entity/Q738473  | romance
+http://www.wikidata.org/entity/Q80225206 | Letters of a Solitary Wanderer                                                                          | http://www.wikidata.org/entity/Q442902 | Charlotte Turner Smith | http://www.wikidata.org/entity/Q8261    | novel
+http://www.wikidata.org/entity/Q80225206 | Letters of a Solitary Wanderer                                                                          | http://www.wikidata.org/entity/Q442902 | Charlotte Turner Smith | http://www.wikidata.org/entity/Q738473  | romance
+
+
+## Giving Data to Wikidata
+
+Based on my cursory query, I noticed several entries about Smith's poetry were missing information. I opted to edited the entry on the poem "To the Moon" to reflect its full data. To do this, I confirmed that the poem can be found in the 8th edition of Smith's *Elegiac Sonnets and Other Poems, vol. 1* on HathiTrust.
+
+
+
