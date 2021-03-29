@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Methods"
+date:   2021-03-29 12:21:16 -0500
+categories: jekyll update
+---
+# Computational Methods
+
+This chapter uses cleaned digital editions of Charlotte Smith’s *Elegaic Sonnets and Other Poems, Vol. 1* (1797) 6th edition, *Elegiac Sonnets and Other Poems, Vol. 2* (1797) 6th edition, * Beachy Head: with other poems* (1807) second edition, and *The Emigrants : a poem, in two books* (1793).
+To start with, I opted to use HathiTrust's digitized edition because 1) their optical character recognition (OCR) is relatively clean and would require minimal cleaning; and 2) they are digitally available and are easier to import into plaintext formatting than other editions. Essentially, my selection of these texts was primarily based upon availability and ease of access.
+
+In a perfect world, I would use earlier editions as my primary texts; however, my difficulty in procuring  ideal editions of Smith's poetry to the sparse availability and readability of digitized editions from the 19th century. Generally, more texts have been lost to history than digitized and available for modern readers to enjoy. Many of those that have been made digital contain alien artifacts like marginalia, watermarks, stains, tears, etc. that influence the computer’s ability to “read” and transcribe a clean, plaintext version of the text. For example, although human eyes can tell that a mysterious stain on the margins of a text is just a stain, the computer’s OCR program might read it as a series of random letters, numbers, or punctuation that were not there originally. The time and labor it would take for a single researcher (me) to clean these errors through a combination of computational methods and manual scanning simply outweighs the benefit of working with a renowned edition instead of a run-of-the-mill digitized collection. In short, the collections of poetry found on HathiTrust’s digital archive are “good enough” for my purposes, even if they are not ideal. 
+
+
+After an extensive internal debate on which edition I should use, I then downloaded the plaintext file versions of my corpus to SublimeText, which is a free plaintext editor. After removing unnecessary licensing materials, authorial and editors’ footnotes, and prefaces etc., I did some light cleaning using regular expressions to remove errant punctuation (/[[:punct:]]), and other common anomalies with the substitute function to replace antiquated spelling with modern language.  Essentially, I did a fancier version of  the “find and replace” function one might use in Microsoft Word to help the computer read the corpus without getting tripped up on strange punctuation and spelling. I then separated each poem into through own plaintext file titled with a shortened version of its original title. 
+Next, I loaded my files into RStudio, which is a programming language and software, and ran each Smith poem through my word frequency code. This code created a word frequency table for each poem and a ‘master’ list that contains the total word frequencies for the entire corpus. I culled common words, like prepositions and conjunctions, by identifying “stop words” in my code, which is a list of “do not count” words. I also used “stemming” in my code, which combines words with the same root under one entry (i.e. sing, sings, and singing would count for the same entry). 
+
