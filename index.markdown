@@ -6,4 +6,5 @@ title: Home
 Welcome!
 
 
-![books](C:/Users/Drago/Documents/GitHub/dissertation/assets/images_books.png)
+
+(![books](assets/images/books.png)
