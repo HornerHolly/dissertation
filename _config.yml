@@ -43,8 +43,6 @@ header_pages:
     - Resources.md
 collections: 
     posts: 
-        output: true
-show_excerpts: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
