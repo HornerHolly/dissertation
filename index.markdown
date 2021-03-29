@@ -3,8 +3,4 @@
 layout: default
 title: Home
 ---
-Welcome!
-
-
-
-(![books](assets/images/books.png)
+![books](assets/images/books.png)
