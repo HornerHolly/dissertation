@@ -27,6 +27,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 url: "https://hornerholly.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/dissertation"
 github_username:  HornerHolly
+orchid: https://orcid.org/0000-0001-9564-1326
 
 # Build settings
 theme: minima
