@@ -4,7 +4,7 @@ layout: default
 title: About the Project
 permalink: /about/
 ---
-# Charlotte Smith Sound Words Project
+# A DH Dissertation on Sites and Sound in Romantic Poetry
 
 ![books](assets/images/Smith.jpg)
 ## Project Aims
