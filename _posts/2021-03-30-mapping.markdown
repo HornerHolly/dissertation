@@ -30,7 +30,6 @@ To  illustrate the tensions between space and time in *Beachy Head*, I mapped th
 
 
 
-
 # Discussion
 Although rendering visualizations of Romantic writings through mapping is not a new phenomenon, most scholars do not fully consider the relationship between temporality and space in these projects.  For instance, The Byron Online Project offers a different mapping endeavor on the British Romantics that tracks the frequency of named locations in Byron’s correspondence and in Childe Harold’s Pilgrimage Cantos I-II. This sort of project remains rooted in Byron’s contemporary historical reality and is a popular method for mapping the Romantics. The map from the Byron Online Project does perform important work for visualizing the relationship between these two types of writing, but it does not fully consider the relationship between time and space. This, in part, could be due to the difference between Byron’s and Smith’s personal writing agendas. 
 
@@ -40,7 +39,7 @@ Nevertheless, reading the spaces in Beachy Head in terms of temporality offers a
 Although Smith is quite clear with the general locations (i.e. she identifies Gallica, or modern France), she does not always provide accurate information for the precise geographical location. As such, the coordinates I provided are speculative in nature and based on clues from the text. For example, Smith imaginatively paints the image of an Indian slave working on the coast (BH, 37-49), but does not offer suggestions for which Indian coast she envisions. The geo-coordinates I provided for this entry are based in modern Bombay (estimated at 18.347454, 73.05306) on the western coast of the Arabian Sea, but one could argue that an eastern Indian coast off the Bay of Bengal would have worked as well. Although this project strives for geographical accuracy, it is impossible to accurately deduce all the specific locations Smith envisioned for this text. Primarily, because Smith often invokes an individual to stand representative of a whole. The Indian slave standing on the coast, for Smith, remains synonymous for other slaves impacted by the wrath of imperialism and stands representative for all of India. Consequently, even though several of the imaginative locations from this project are speculative in nature, their rough geographical coordinate still illustrates the same point: Smith is using the real and imaginative local places to stand representative of the global. 
 
 # Metadata
-                                                                                                                            |                                                                                                                                     |                        |
+|                                                                                                                                     |                        |
 | Location                           | Coordinates            | Line #        | Quote                                                                                                                                      | Smith's Footnotes on Location                                                                                                       | Past/Present/Atemporal |
 |------------------------------------|------------------------|---------------|--------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|------------------------|
 |  Beachy Head:East Sussex, England  | 50.737430, 0.247680    | 1             | "stupendous summit, rock sublime"                                                                                                          | (1) the Channel crossing the coast of France                                                                                        | Present                |
@@ -72,10 +71,12 @@ Although Smith is quite clear with the general locations (i.e. she identifies Ga
 
 
 
+
 # Preliminary Visuals
 
 ![map](C:\Users\Drago\Documents\GitHub\dissertation\assets\images\map.png)
 
 Note: the legend symbols are not ideal, but they are sufficient as placeholders for now.
+
 # Next Steps
 Although this mapping project on just Beachy Head reveals insightful observations regarding Smith's understanding of space in poetry, I intend to build and refine these methods further as I expand my search into all of the poems from *Beachy Head: with other poems* (1807), *Elegiac Sonnets and Other Poems, volumes I and II *(1797), and *The Emigrants: a poem in two volumes* (1793). I also intend to refine my visualizations readability by following the rules outlined in Healy's *Data Visualizations* guide. 
