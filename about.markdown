@@ -6,6 +6,7 @@ permalink: /about/
 ---
 # Charlotte Smith Sound Words Project
 
+![books](assets/images/Smith.jpg)
 ## Project Aims
 This website is an extension of my dissertation on sound, space, and DH methods in the Romantic period. My project considers how digital tools, such as text-mining, topic-modeling, and mapping, help illuminate and visualize abstract concepts, such as sound and nationalism in the poetic works of Wordsworth, Byron, and Smith. I employ what I’ve termed “Middle Reading” where I combine traditional close-reading analyses with digital tools to further enrich my topic. 
 In this sense, my project goal is twofold: 
