@@ -27,7 +27,7 @@ Worked as a personal research assistant for Dr. Judith Pascoe. I assisted with g
 
 Worked as a Workshop Coordinator for the Prosopographies Data Repository Institute a Florida State University. This job required coordinating digital workshops, transcribing notes, communicating with the workshop participants, and assisting in the writing of a white paper and creation of other project outputs. 
 
-Florida State University Teacher’s Assistant 				Summer 2015-present
+## Florida State University Teacher’s Assistant 				Summer 2015-present
 
 Served as a Teacher’s Assistant at FSU and as the sole instructor for college composition courses (ENC 2135 and ENC 1101) and upper-level literature courses Introduction to English Studies (ENG 2012), Film Genres (ENG 3310), and Introduction to Literature (Lit 2000). These courses required detailed syllabi, weekly lesson plans, and meaningful interaction with a diverse range of students, including student-athletes, ESL students, and first-generation college students. These courses focus on preparing young scholars to think and write critically about subjects they feel passionately about. 	
 
@@ -57,6 +57,7 @@ BA in English 								 (Fall 2011- Spring 2015)
 	ENG 2012 Introduction to English Studies
 	ENG 3310 Film Genres
 	LIT 2000 Introduction to Literature 
+	ENG 3383 Women in Literature
 
 ## RESEARCH INTRESTS 
 I am majoring in Romantic-era poetry with a minor concentration in digital applications to literary studies. My research interests include the gothic, Romantic women poets, British imperialism, sound studies, and Digital Humanities. My on-going dissertation uses text-mining, topic modelling, and geo-spatial methods to consider the intersection of sound and nationalism in Romantic-era poetry. 
