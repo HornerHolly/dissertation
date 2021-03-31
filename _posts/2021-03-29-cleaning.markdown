@@ -5,6 +5,10 @@ date:   2021-03-29 12:21:16 -0500
 categories: jekyll update
 ---
 See below for a detailed step-by-step guide for how I prepare my texts for computational analysis.
+The programs and tools I used are:
+-[https://www.sublimetext.com/](https://www.sublimetext.com/)SublimeText
+-[https://regex101.com/](https://regex101.com/)Regex101 (for learning regular expressions, but its better to edit in SublimeText)
+-[https://cheatography.com/davechild/cheat-sheets/regular-expressions/](https://cheatography.com/davechild/cheat-sheets/regular-expressions/)Regular Expressions Cheatsheet
 
 # Phase I: Find and Split
 1. I located readable digital copies of my texts from either Gutenberg Press or HathiTrust for each chapter. The cleaner the better, considering I am a single researcher working with 4 volumes of poetry.
@@ -29,6 +33,7 @@ Before deleting all punctuation with a simple "replace all" with a "space" or "b
 2. I then used the [[:punct:]] function as intended to replace all remaining punctuation with a simple space. 
 3. For Charlotte Smith's editions, I had to contend with the dreaded eighteenth-century long "s" and its unreadability in OCR. I then used the find and replace function to search for the "ſ" with the modern "s."
   
+  Tip: Make sure to double-check how well your "find and replace" function works. I personally verified it with known trip ups like searching for floating letters like "s" or "d," which would suggest I missed manually cleaning up a word with an apostrophe like "leap'd" or " Nature's." Essentially, know where you are likely to make human errors. 
 # Phase III: Documenting Metadata
 
 After my documents were cleaned as intended, I then broke down the information I had into readable metadata for each chapter to keep track of all the poems and their important bibliographic information. The categories I recorded were:
@@ -44,5 +49,6 @@ After my documents were cleaned as intended, I then broke down the information I
 - URL to original text 
  
  To access my metadata for each poem, check out my corpus tab.
+
 
 
