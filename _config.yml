@@ -45,6 +45,8 @@ header_pages:
 collections: 
     posts: 
         output: true
+    Corpus_Metadata:
+        output: true
 
 
 # Exclude from processing.
