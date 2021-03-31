@@ -1,3 +1,10 @@
+
+---
+layout: post
+title:  "Smith Corpus"
+date:   2021-03-31 12:21:16 -0500
+categories: jekyll update
+---
 # List of Poems
 
 | Sonnet Number | Poem Title                                     | Collection Title               | Author          | Publication Year | Edition  | Page Location | Total Pages in Vol | Location Found                                  |
