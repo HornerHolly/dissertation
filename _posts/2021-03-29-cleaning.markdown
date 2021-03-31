@@ -4,4 +4,45 @@ title:  "Cleaning"
 date:   2021-03-29 12:21:16 -0500
 categories: jekyll update
 ---
-tba
+See below for a detailed step-by-step guide for how I prepare my texts for computational analysis.
+
+# Phase I: Find and Split
+1. I located readable digital copies of my texts from either Gutenberg Press or HathiTrust for each chapter. The cleaner the better, considering I am a single researcher working with 4 volumes of poetry.
+2. I saved the entire document as a plain text file to my computer and quickly omitted unnecessary information, such as liscening, title page, copywrite information, editor and authorial footnotes, etc. The only content left in the file were the poems themselves and their titles, which I will later omit in the next step.
+3. I then split each volume up by poem or canto title to create more managable units of data and delete the poem titles as I go. For example, Charlotte Smith's *Elegiac Sonnets & other poems*, volume was categorized as a single folder containing individualized files for each poem.
+
+    - update: I later found mass "cleaning" the entire volume before splitting the poems up to be a much more effective use of time.
+    
+# Phase II: Regular Expressions
+
+1. I used SublimeText editor function "find and replace all" function to locate all punctuation with the following command:
+```
+        [[:punct:]]
+```
+Before deleting all punctuation with a simple "replace all" with a "space" or "backspace," I manually converted the following: 
+  - possessives like "Nature's" were  simplified to "Nature." 
+  - metrical anamolies like "o'er" or "e'en" were translated to their literal spelling like "over" and "even."
+  - line numbers and Roman numberals were manually deleted. 
+  
+  Although it would be ideal for me to keep the original spelling and possessives, this simiplification was necessary to prepare my documents to be read in RStudio without incident. I repeatedly ran into an issue with apostrophes creating numerous reading problems down the line and this was simpliest workaround. 
+  
+2. I then used the [[:punct:]] function as intended to replace all remaining punctuation with a simple space. 
+3. For Charlotte Smith's editions, I had to contend with the dreaded eighteenth-century long "s" and its unreadability in OCR. I then used the find and replace function to search for the "ſ" with the modern "s."
+  
+# Phase III: Documenting Metadata
+
+After my documents were cleaned as intended, I then broke down the information I had into readable metadata for each chapter to keep track of all the poems and their important bibliographic information. The categories I recorded were:
+
+- sonnet # (for Smith)
+- poem title
+- volume title
+- year of publication
+- author
+- edition
+- page location
+- total pages in volume
+- URL to original text 
+ 
+ To access my metadata for each poem, check out my corpus tab.
+
+
