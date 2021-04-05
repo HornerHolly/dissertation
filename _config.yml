@@ -45,7 +45,7 @@ header_pages:
 collections: 
     posts: 
         output: true
-    Corpus_Metadata:
+    corpusmetadata:
         output: true
 
 
