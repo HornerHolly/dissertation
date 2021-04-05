@@ -75,7 +75,7 @@ Although Smith is quite clear with the general locations (i.e. she identifies Ga
 # Preliminary Visuals
 
 
-![map](C:\Users\Drago\Documents\GitHub\dissertation\assets\images\map.png)
+![map](/dissertation/assets/images/map.png)
 
 
 Note: the legend symbols are not ideal, but they are sufficient as placeholders for now.
