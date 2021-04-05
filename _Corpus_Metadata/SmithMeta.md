@@ -1,9 +1,8 @@
 
 ---
-layout: post
-title:  "Smith Corpus"
-date:   2021-03-31 12:21:16 -0500
-categories: jekyll update
+layout: default
+title:  "Beachy Head"
+permalink: "/corpus/BH/"
 ---
 # List of Poems
 
