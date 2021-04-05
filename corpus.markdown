@@ -26,10 +26,10 @@ The file names for the individual plaintext versions of the poems are identified
     - ESVI_8_tospring
 
 <ul>
-{% for page in site.Corpus_Metadata %}
+{% for page in site.corpusmetadata %}
 <li>
-<a href="{{site.baseurl}}/{{Corpus_Metadata.permalink}}">
-{{Corpus_Metadata.title}} 
+<a href="{{site.baseurl}}/{{corpusmetadata.permalink}}">
+{{corpusmetadata.title}} 
 </a>
 </li>
 {% endfor %}
