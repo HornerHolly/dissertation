@@ -1,8 +1,8 @@
 
 ---
 layout: default
-title:  "Beachy Head"
-permalink: "/corpus/BH/"
+title:  "Smith Metadata"
+permalink: "/corpus/Smith/"
 ---
 # List of Poems
 
@@ -81,9 +81,6 @@ permalink: "/corpus/BH/"
 | N/A           | Song                                                           | Elegiac Sonnets and Other Poems, vol. 1 | Charlotte Smith | 1779             | 8th      | 81            | 155                | https://hdl.handle.net/2027/njp.32101036889499 |
 | N/A           | Thirty-eight                                                   | Elegiac Sonnets and Other Poems, vol. 1 | Charlotte Smith | 1779             | 8th      | 82            | 155                | https://hdl.handle.net/2027/njp.32101036889499 |
 | N/A           | Verses intented to have been prefixed to the Novel of Emmeline | Elegiac Sonnets and Other Poems, vol. 1 | Charlotte Smith | 1779             | 8th      | 86            | 155                | https://hdl.handle.net/2027/njp.32101036889499 |
-
-| Sonnet Number | Poem Title                                                                                                              | Collection Title                         | Author          | Publication Year | Edition  | Page Location | Total Pages in Vol | Location Found                                 |
-|---------------|-------------------------------------------------------------------------------------------------------------------------|------------------------------------------|-----------------|------------------|----------|---------------|--------------------|------------------------------------------------|
 | LX            | To an amiable Girl                                                                                                      | Elegiac Sonnets and Other Poems, vol. II | Charlotte Smith | 1797             | 8th      | 1             | 188                | https://hdl.handle.net/2027/njp.32101037074752 |
 | LXI           | Supposed to have been written in America                                                                                | Elegiac Sonnets and Other Poems, vol. II | Charlotte Smith | 1797             | 8th      | 2             | 188                | https://hdl.handle.net/2027/njp.32101037074752 |
 | LXII          | Written on passing by Moonlight through a Village, while the ground was covered with snow                               | Elegiac Sonnets and Other Poems, vol. II | Charlotte Smith | 1797             | 8th      | 3             | 188                | https://hdl.handle.net/2027/njp.32101037074752 |
@@ -124,9 +121,5 @@ permalink: "/corpus/BH/"
 | N/A           | Fragment, descriptive of the Miseries of War                                                                            | Elegiac Sonnets and Other Poems, vol. II | Charlotte Smith | 1797             | 8th      | 78            | 188                | https://hdl.handle.net/2027/njp.32101037074752 |
 | N/A           | April                                                                                                                   | Elegiac Sonnets and Other Poems, vol. II | Charlotte Smith | 1797             | 8th      | 82            | 188                | https://hdl.handle.net/2027/njp.32101037074752 |
 | N/A           | Ode to Death                                                                                                            | Elegiac Sonnets and Other Poems, vol. II | Charlotte Smith | 1797             | 8th      | 87            | 188                | https://hdl.handle.net/2027/njp.32101037074752 |
-
-
-| Sonnet Number | Poem Title    | Collection Title                     | Author          | Publication Year | Edition  | Page Location | Total Pages in Vol | Location Found                                 |
-|---------------|---------------|--------------------------------------|-----------------|------------------|----------|---------------|--------------------|------------------------------------------------|
 | Book 1        | The Emigrants | The emigrants : a poem, in two books | Charlotte Smith | 1793             |          | 1             | 68                 | https://hdl.handle.net/2027/uc1.31175035214942 |
 | Book 2        | The Emigrants | The emigrants : a poem, in two books | Charlotte Smith | 1793             |          | 39            | 68                 | https://hdl.handle.net/2027/uc1.31175035214942 |
