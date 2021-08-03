@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "How to Find the Answers"
+date:   2021-08-03 12:21:16 -0500
+categories: jekyll update
+---
+# How to Find the Answers and What I Did
+
+
+### Confession Round 2
+
+I am not a computer science major, nor have I ever taken a proper computer science class. My DH skills are largely self-taught through (free) online courses like DataCamp, Youtube Tutorials, and many, many step-by-step guides online. For particularly tricky snares, I turned to the Florida State University's wonderful DH Librarian, Sarah Stanley, for a way out of my personal bog of error codes and misplaced punctuation. My experiences with RStudio and data are limited to my literary research interests where I started with a literary question (i.e. why is Charlotte Smith so interested in geographic spaces?) and then tried to answer it with DH methods. I then would have to learn the digitial skills while also seeking a reasonable answer. 
+
+If I were to start my DH journey over again, I would have taken computational analyses coures much, much earlier (maybe even minored in it) rather than waiting until three semesters into my dissertation (during a pandemic) to take a computational methods course. With that being said, I may not be an expert (or even foundationally proficient) in RStudio but I confidently say I know how and where to find the answers I need to answer my initial questions. 
+
+In this blog post, I am going to outline the very basics of where I found my resources, how I applied them, and what code I used to generate my map of Charlotte Smith's poetry.
+### My Mapping Resources for RStudio
+
+
+
+### My Code
+
+
+### What I Would Have Done Differently
