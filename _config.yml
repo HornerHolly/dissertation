@@ -42,7 +42,7 @@ header_pages:
     - blog.markdown  
     - corpus.markdown
     - Resources.md
-    - SmithMap.Rmd
+    - CSmithMap.html
 collections: 
     posts: 
         output: true
