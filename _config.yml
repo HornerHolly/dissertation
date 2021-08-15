@@ -30,7 +30,7 @@ github_username:  HornerHolly
 ORCHID: https://orcid.org/0000-0001-9564-1326
 
 # Build settings
-theme: minima
+theme: bajawa
    
 plugins:
   - jekyll-feed
