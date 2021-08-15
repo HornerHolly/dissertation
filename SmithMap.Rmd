@@ -1,0 +1,61 @@
+---
+title: "Smith Map"
+author: "Holly Horner"
+date: "8/15/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+
+library(ggplot2)
+library(ggiraph)
+library(shiny)
+
+setwd("C:/Users/Drago/Documents/Holly's Files/Dissertation/Chapter 3/DH Materials")
+
+df<-read.csv('Mapping_metadata.csv')
+
+world <- map_data("world")
+
+df$onclick <- sprintf("window.open(\"%s%s\")",
+                      "https://github.com/HornerHolly/dissertation/tree/main/interactivemapfiles/", as.character(df$URL) )
+
+p<-ggplot() +
+  geom_map(
+    data = world, map = world,
+    aes(long, lat, map_id = region),
+    color = "white", fill = "lightgray", size = 0.1
+  ) +
+  geom_point_interactive(
+    data = df,
+    aes(longitude, latitude, 
+        color = Word,  tooltip = Word, data_id =  Word, onclick = onclick,
+        size=Frequency),
+    alpha = 0.5
+  ) +
+  theme_void() +
+  theme(legend.position = "none")+
+  #theme_void() +
+  #theme(legend.position = "none")+
+  labs(title="Charlotte Smith Poem Map",
+       subtitle = "By Holly Horner"
+  ) + 
+  theme(plot.title = element_text(size = 12, face = "bold.italic", family = 'Palatino'),
+        plot.subtitle = element_text( face = "italic", family = 'Palatino'))
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r plot, echo=FALSE}
+girafe(ggobj = p)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
