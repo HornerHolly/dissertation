@@ -42,6 +42,7 @@ header_pages:
     - blog.markdown  
     - corpus.markdown
     - Resources.md
+    - map.markdown
 collections: 
     posts: 
         output: true
