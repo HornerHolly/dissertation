@@ -11,7 +11,7 @@ library(ggplot2)
 library(ggiraph)
 library(shiny)
 
-setwd("C:/Users/Drago/Documents/Holly's Files/Dissertation/Chapter 3/DH Materials")
+setwd("C:/Users/Drago/Documents/HollyFiles/Dissertation/Chapter 3/DH Materials")
 
 df<-read.csv('Mapping_metadata.csv')
 
