@@ -4,6 +4,9 @@ title:  "Mapping"
 date:   2021-03-30 12:21:16 -0500
 categories: jekyll update
 ---
+*March 30, 2021*
+
+
 # Why map literature?
 
 A critical trend among DH scholars interested in mapping is to ask the overarching question: why map literature? Randa El Khatib and Marcel Schaeben undertakes this question in their article on their process of “building ‘A Map of Paradise Lost’ through “text-to-map” visualization that traces locatable places in Milton’s classic text. In terms of visual representation, this project is something I would like to emulate in future iterations of my Smith chapter. In addition to creating a mapping visualization, the authors also argue for why mapping literature is a necessary and illuminating process. They argue that “Digital projects can blur the boundaries that separate different scholarly genres and produce hybrids that amalgamate different elements,” which allows for new critical insight about a text.[&#x00b1;](#n1)  Although this article was later “retracted” for being accidentally published as an earlier draft with data errors, it still offers a meaningful discussion of the affordances and constraints of digital mapping projects in the humanities. ) Essentially, a digital project that transforms a collection of texts becomes its own scholarly edition or text that invites readers to approach the original topic from a new angle. 

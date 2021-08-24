@@ -1,10 +1,9 @@
 ---
 layout: post
-title:  "Confessions of an English Major"
+title:  "Confessions of a Dissertating English Major"
 date:   2021-05-13 12:21:16 -0500
 categories: jekyll update
 ---
-# Confessions of Dissertating English Student 
 *May 13, 2021*
 
 The first question people ask about my dissertation is: what is your argument? It is a fairly standard, innocent question that I could answer three-minute-thesis style for any other project I’ve done in the past. My heart starts to race, and I usually have to take a deep breath, steeling myself for their looks of disbelief and confusion, before launching into my now canned and ready response: “I don’t know.”

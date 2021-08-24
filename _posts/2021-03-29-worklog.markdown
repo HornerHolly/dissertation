@@ -4,6 +4,10 @@ title:  "Work Log"
 date:   2021-03-29 12:21:16 -0500
 categories: jekyll update
 ---
+*March 29, 2021*
+
+
+
 Read below for details on the weekly exercises done for my computational methods course. 
 
 # Exercise 1

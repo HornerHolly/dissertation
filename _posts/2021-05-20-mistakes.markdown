@@ -4,7 +4,6 @@ title:  "On Finding and (NOT) Fixing Mistakes"
 date:   2021-05-13 12:21:16 -0500
 categories: jekyll update
 ---
-# On Finding and (NOT) Fixing Mistakes
 *May 20, 2021*
 
 No matter how much time I spend “cleaning” my plaintext files, I always find an errant number (66, for some reason keeps cropping up in my Smith corpus), a series of words incorrectly “stemmed” (cottages/cottage has turned to “cottag”), or—even worse—I accidentally removed the line breaks in an entire corpus, which is pretty important to keep for poetry. Each time I think I’ve found a solution or cleaned up the last of them, something else mars my data. I’ve worked until my eyes have glazed over and the black words on the screen look more like hieroglyphics than English. More often than not, my need to fix my data to look pristine and worthy of true DH scholarship results in more hideous human errors. There comes a time when I must forfeit my cleaning battle and let my corpus just be imperfect. That time is now. 

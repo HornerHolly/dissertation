@@ -4,6 +4,8 @@ title:  "Cleaning"
 date:   2021-03-29 12:21:16 -0500
 categories: jekyll update
 ---
+*March 29, 2021*
+
 See below for a detailed step-by-step guide for how I prepare my texts for computational analysis.
 The programs and tools I used are:
 -[https://www.sublimetext.com/](https://www.sublimetext.com/)SublimeText

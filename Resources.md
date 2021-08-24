@@ -1,3 +1,8 @@
+---
+layout: default
+title: Resources
+permalink: /Resources/
+---
 # Resources
 See below for recommended resources on Romantic poets studied in this dissertation.
 # William Wordsworth and Sound Studies

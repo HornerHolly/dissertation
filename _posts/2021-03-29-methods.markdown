@@ -4,6 +4,8 @@ title:  "Methods"
 date:   2021-03-29 12:21:16 -0500
 categories: jekyll update
 ---
+*March 29, 2021*
+
 # Computational Methods
 
 This chapter uses cleaned digital editions of Charlotte Smith’s *Elegaic Sonnets and Other Poems, Vol. 1* (1797) 6th edition, *Elegiac Sonnets and Other Poems, Vol. 2* (1797) 6th edition, * Beachy Head: with other poems* (1807) second edition, and *The Emigrants : a poem, in two books* (1793).

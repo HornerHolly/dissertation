@@ -1,9 +1,14 @@
 ---
-
 layout: default
 title: Home
 ---
-![books](assets/images/books.png)
+<h1>Latest Posts</h1>
 
-This website is intended to document my progress as I learn and practice computational methods for my dissertation. 
-
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>

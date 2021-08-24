@@ -4,8 +4,9 @@ title:  "Sound Spectrum Draft"
 date:   2021-04-6 12:21:16 -0500
 categories: jekyll update
 ---
-# Aims
- 
+*April 6, 2021*
+
+
 For Chapter 1 of my dissertation, I need to create a visualization that illustrates how Wordsworth's sound language oscilates from harmonic sounds, to silence, to discord. This is a draft of my sound spectrum visualization and it contains many errors, but it is a promising start. 
 
 
