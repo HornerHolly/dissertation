@@ -2,7 +2,6 @@
 layout: post
 title:  "How to Find the Answers...and What I Did"
 date:   2021-08-03 12:21:16 -0500
-categories: jekyll update
 ---
 
 *August 8, 2021*

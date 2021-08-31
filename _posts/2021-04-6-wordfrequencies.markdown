@@ -2,7 +2,6 @@
 layout: post
 title:  "Word Frequencies"
 date:   2021-04-6 12:21:16 -0500
-categories: jekyll update
 ---
 *April 6, 2021*
 

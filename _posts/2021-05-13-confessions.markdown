@@ -2,7 +2,6 @@
 layout: post
 title:  "Confessions of a Dissertating English Major"
 date:   2021-05-13 12:21:16 -0500
-categories: jekyll update
 ---
 *May 13, 2021*
 
