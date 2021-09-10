@@ -11,11 +11,50 @@ I am not a computer science major, nor have I ever taken a proper computer scien
 If I were to start my DH journey over again, I would have taken computational analyses coures much, much earlier (maybe even minored in it) rather than waiting until three semesters into my dissertation (during a pandemic) to take a computational methods course. With that being said, I may not be an expert (or even foundationally proficient) in RStudio but I confidently say I know how and where to find the answers I need to answer my initial questions. 
 
 In this blog post, I am going to outline the very basics of where I found my resources, how I applied them, and what code I used to generate my map of Charlotte Smith's poetry.
-### My Mapping Resources for RStudio
 
 
 
 ### My Code
+```
+library(ggplot2)
+library(ggiraph)
+library(shiny)
+
+setwd("C:/Users/Drago/Documents/HollyFiles/Dissertation/Chapter 3/DH Materials")
+
+df<-read.csv('Mapping_metadata.csv')
+
+world <- map_data("world")
+
+df$onclick <- sprintf("window.open(\"%s%s\")",
+                      "https://github.com/HornerHolly/dissertation/tree/main/interactivemapfiles/", as.character(df$URL) )
+
+p<-ggplot() +
+  geom_map(
+    data = world, map = world,
+    aes(long, lat, map_id = region),
+    color = "white", fill = "lightgray", size = 0.1
+  ) +
+  geom_point_interactive(
+    data = df,
+    aes(longitude, latitude, 
+        color = Word,  tooltip = Word, data_id =  Word, onclick = onclick,
+        size=Frequency),
+    alpha = 0.5
+  ) +
+  theme_void() +
+  theme(legend.position = "none")+
+  #theme_void() +
+  #theme(legend.position = "none")+
+  labs(title="Charlotte Smith Poem Map",
+       subtitle = "By Holly Horner"
+  ) + 
+  theme(plot.title = element_text(size = 12, face = "bold.italic", family = 'Palatino'),
+        plot.subtitle = element_text( face = "italic", family = 'Palatino'))
+
+girafe(ggobj = p)
+```
 
 
 ### What I Would Have Done Differently
+    My biggest trial with mapping Smith was actually publishing the map. Prior to working with Jekyll Pages, I did not know that there were inconsistencies with launching an interactive map onto my chosen platform. This required several creative work arounds (and Sarah Stanley's invaluable help) just to make the map functional and viewable to visitors on my website.
