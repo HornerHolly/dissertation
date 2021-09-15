@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Methods"
+title:  "Cleaning 2.0"
 date:   2021-03-29 12:21:16 -0500
 ---
 *March 29, 2021*
 
-# Computational Methods
+# Computational Methods and Cleaning
 
 This chapter uses cleaned digital editions of Charlotte Smith’s *Elegaic Sonnets and Other Poems, Vol. 1* (1797) 6th edition, *Elegiac Sonnets and Other Poems, Vol. 2* (1797) 6th edition, * Beachy Head: with other poems* (1807) second edition, and *The Emigrants : a poem, in two books* (1793).
 To start with, I opted to use HathiTrust's digitized edition because 1) their optical character recognition (OCR) is relatively clean and would require minimal cleaning; and 2) they are digitally available and are easier to import into plaintext formatting than other editions. Essentially, my selection of these texts was primarily based upon availability and ease of access.
