@@ -33,7 +33,6 @@ footer a {
    font-size: 40pt;
    text-shadow: 0 1.5px 1.5px rgba(44,42,41,.25);
    font-family: Garamond, serif;
-   border-top: double;
 } 
 
 header h1 {
@@ -44,6 +43,7 @@ header h1 {
 
  h2 {
    text-shadow: 0 0.5px 0.5px rgba(44,42,41,.25);
+    border-top: double;
 }
 
 a {
