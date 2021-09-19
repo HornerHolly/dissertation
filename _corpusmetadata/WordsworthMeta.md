@@ -5,7 +5,7 @@ permalink: "/corpus/Wordsworth/"
 ---
 # List of Poems
 | Poem Title                                                                                                                                                                                     | Volume # | Year | Editor | URL                                                                       |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|------|--------|---------------------------------------------------------------------------|
+|---|---|---|---|---|
 | Extract from the Conclusion of a Poem, composed in Anticipation of leaving School                                                                                                              | 1        | 1896 | Knight | http://www.gutenberg.org/files/10219/10219-h/10219-h.htm                  |
 | Written in very Early Youth                                                                                                                                                                    | 1        | 1896 | Knight | http://www.gutenberg.org/files/10219/10219-h/10219-h.htm                  |
 | An Evening Walk                                                                                                                                                                                | 1        | 1896 | Knight | http://www.gutenberg.org/files/10219/10219-h/10219-h.htm                  |
