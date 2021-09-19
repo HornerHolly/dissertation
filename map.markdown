@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Charlotte Smith Map
-permalink: /map/
+permalink: /illustrations/
 ---
 # About the Map
  

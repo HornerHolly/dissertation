@@ -42,7 +42,8 @@ header_pages:
     - blog.markdown  
     - corpus.markdown
     - Resources.md
-    - SmithMap.Rmd
+    - visuals.markdown
+    
 collections: 
     posts: 
         output: true
