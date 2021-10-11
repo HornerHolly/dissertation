@@ -6,6 +6,10 @@ permalink: /Resources/
 # Resources
 See below for recommended resources on Romantic poets studied in this dissertation.
 # William Wordsworth and Sound Studies
+
+ <script src="https://bibbase.org/show?bib=https%3A%2F%2Fapi.zotero.org%2Fusers%2F4444644%2Fcollections%2FDI9US429%2Fitems%3Fkey%3DrV15W2x3Fs56GURULsIqmBsI%26format%3Dbibtex%26limit%3D100&jsonp=1"></script> 
+
+
 ​
 Attali, Jacques. *Noise  : The Political Economy of Music*. Minneapolis: University of Minnesota Press, 1985. 
 
@@ -79,8 +83,107 @@ Wolfson, Susan J. “‘Sounding Romantic:’ The Sound of Sound”.” The Roma
 
 # Lord Byron and Sites of Sound
 ​
+Beatty, Bernard. “Childe Harold’s Pilgrimage Cantos I and II in 1812.” Byron Journal 41, no. 2 (2013).
 
-TBA
+———. “Improvisation and Hybrid Genres: Reading Childe Harold’s Pilgrimage.” European Legacy 24, no. 3/4 (2019): 264.
+
+———. “Oceans and Lakes: Byron’s Interactions.” Byron Journal 47, no. 2 (December 1, 2019): 123. 
+
+Bernhard-Jackson, Emily A. “‘Sometimes I Feel like the Whole Human Race’: Lord Byron and David Bowie Consider the Question of Identity.” Byron Journal 46, no. 2 (December 1, 2018): 113. 
+
+Blanco, Agustín Coletes. “A ‘Romantic Land’ Twice Invaded, and Twice Supported: Byron, 
+Hemans, Moore, and ‘Hafiz’ on Spain, 1808–14 and 1820–23.” Byron Journal 48, no. 1 (2020): 33–44. 
+
+Bowers, Will. “Italian Travel, English Tourism, and Byron’s Poetry of Exile.” Litteraria Pragensia 23, no. 46 (2013): 86–102.
+
+Byron, George Gordon Byron, Baron, and Thomas Moore. Letters and Journals of Lord Byron. Cambridge Library Collection. Literary Studies. Cambridge University Press, 2012. 
+
+Cantor, Paul A. “The Politics of the Epic: Wordsworth, Byron, and the Romantic Redefinition of Heroism.” Review of Politics 69, no. 3 (2007): 375.
+
+Carpenter, Ruth. “Childe Harold-’The Soul and Source of Music’: Byron’s Influence on Berlioz and His Harold in Italy Symphony.” The Byron Journal 30 (2002): 38–53. 
+
+Coole, Julia. “‘Who Shall Now Lead?’ The Politics of Paratexts in Childe Harold’s Pilgrimage, Cantos I–II.” Romanticism: The Journal of Romantic Culture and Criticism 24, no. 2 (2018): 148–57.
+
+Cox, Jeffery. “From Pantomime to Poetry: Wordsworth, Byron, and Harlequin Read Waterloo.” Studies in Romanticism 56, no. 3 (2017): 321–40.
+
+Csengei, Ildiko. “‘The Fever of Vain Longing’: Emotions of War in Byron’s Childe Harold’s Pilgrimage, Canto III.” Romanticism 24, no. 1 (2018): 86–98. 
+
+Drobot, Irina-Ana. “Childe Harold by Byron: Romantic Liberalism.” Sfera Politicii 26, no. 3/4 
+(2018): 140–50.
+
+Douglass, Paul. “Paradise Decomposed: Byron’s Decadence and Wordsworthian Nature in ‘Childe Harold’ III and IV.” Byron Journal 34, no. 1 (2006): 9–19.
+
+García, Mary Anne Mc Danel de. “The Napoleon Mystique and British Poets.” La Mística de Napoleón y Los Poetas Británicos. 17, no. 26 (April 2019): 359.
+
+Gonsalves, Joshua David. “What Makes Lord Byron Go? Strong Determinations--Public/Private--of Imperial Errancy.” Studies in Romanticism 41, no. 1 (2002): 33.
+
+Horova, Mirka. “‘Headlong He Leapt—to Him the Swimmer’s Skill / Was Native’: Byron at 
+Sea.” Byron Journal 47, no. 1 (2019): 5–16. 
+
+Jones, Christine Kenyon. “Byron’s Voice.” Byron Journal 37, no. 2 (2009): 121.
+
+———. “‘[T]o Hook My Rambling Verse on’: Byron’s Rhyme, Improvisation, and Motivation.” Byron Journal 47, no. 2 (2019): 109–20.
+
+Kim, Joey S. “Byron’s Cosmopolitan ‘East’.” Essays in Romanticism 27, no. 2 (2020): 167.
+
+Kabitoglou, Ekaterini Douka. “Byron’s ‘Hellenic’ Voices: ‘Wherever I Travel Greece Wounds 
+Me.’” Byron Journal 46, no. 1 (2018): 5–20. 
+
+Kostadinova, Vitana. “Byronic Ambivalence in Childe Harold’s Pilgrimage IV.” Byron Journal 35, no. 1 (2007): 11.
+
+Lansdown, Richard. “Prospects of Europe: The First Iteration of Childe Harold’s Pilgrimage.” Keats-Shelley Review 28, no. 1 (2014): 37–48.
+
+Levy, Michelle. Literary Manuscript Culture in Romantic Britain. Edinburgh Critical Studies in Romanticism. Edinburgh University Press, 2020. 
+
+Marandi, Seyed Mohammad. “The Oriental World of Lord Byron and the Orientalism of Literary Scholars.” Critique: Critical Middle Eastern Studies 15, no. 3 (2006): 317.
+
+Marchionni, Francesco. “‘And Making Death a Victory’: Scepticism and Personal Conflict in Childe Harold’s Pilgrimage I–II and ‘Prometheus’.” Byron Journal 48, no. 1 (June 2020): 45.
+
+Marks, Thomas. “Notes on... Byron in Venice.” The Spectator (London. 1828), 2018.
+
+Mason, Nicholas. “Building Brand Byron: Early-Nineteenth-Century Advertising and the 
+Marketing of Childe Harold’s Pilgrimage.” Modern Language Quarterly (Seattle) 63, no. 4 (2002): 411–40. 
+
+McGann, Jerome J., and James Soderholm. Byron and Romanticism . New York: 
+Cambridge University Press, 2002.
+
+McGann, Jerome J. “Byron and the Anonymous Lyric.” Byron Journal 20, no. 1 (1992): 
+27–45. 
+
+Neubauer, John. The Persistence of Voice : Instrumental Music and Romantic Orality. National Cultivation of Culture. Leiden: Brill, 2017. 
+
+Nichols, Jon. “Lord Byron’s The Giaour: More than a Mere Orientalist Curio.” Tamkang Review 47, no. 1 (2016): 19. 
+
+O’Neill, Michael. “‘A Deeper and Richer Music’: Felicia Hemans in Dialogue with Wordsworth, Byron and Shelley.” Charles Lamb Bulletin 145 (2009): 3–12.
+
+--- “‘Without a Sigh He Left’: Byron’s Poetry of Departure in Childe Harold’s Pilgrimage, Cantos I and II.” Byron Journal 41, no. 2 (2013): 115–25.
+
+Pala, Mauro. “The Garden of the World: Byron and the Geography of Italy.” In Byron and Italy. 
+Manchester University Press, 2018. 
+
+Preda, Ioan Aurel, and Mihai A. Stroe. “The Creative Faculty in Romantic Poetics and Poetry: Wordsworth and Lord Byron.” Creativity 2, no. 1 (2019): 3.
+
+Said, Edward. Orientalism. Vintage Books Edition, 1979.
+
+Sánchez, Juan L. “Byron, Spain, and the Romance of Childe Harold’s Pilgrimage.” European 
+Romantic Review 20, no. 4 (2009): 443–64. 
+
+Sandy, Mark. “‘I Have Thought / Too Long and Darkly’: Writing and Reading Modes of Being in Byron.” Byron Journal 48, no. 2 (2020): 133–44.
+
+Shaw, Philip. “Cannon-Fever: Beethoven, Waterloo and the Noise of War.” Romanticism 24, no. 3 (2018): 255–65.
+
+Simic, Charles. “The Octava Rima Night Music: Lord Byron’s Don Juan.” Paris Review 42, no. 154 (2000): 218–21.
+
+Strathman, Christopher A. “Byron’s Orphic Poetics and the Foundations of Literary Modernism.” Texas Studies in Literature & Language 51, no. 3 (2009): 361–82.
+
+Thain, Marion. The Lyric Poem: Formations and Transformations. Cambridge: Cambridge University Press, 2013. 
+
+“The John Murray Archive: Ideas That Made the World - National Library of Scotland.” Accessed March 17, 2021. 
+
+Tuite, Clara. Byron in Context. Literature in Context. Cambridge University Press, 2020. 
+
+White, Adam. “Identity in Place: Lord Byron, John Clare and Lyric Poetry.” Byron Journal 40, no. 2 (2012): 115.
+
 ​
 
 # Charlotte Smith and Mapping
