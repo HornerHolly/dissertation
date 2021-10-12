@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "Mapping Methods and Thoughts"
+date:   2021-03-29 12:21:16 -0500
+---
+
+*October 12th, 2021*
+
+### Chapter 2 Aims
+
+The goal for chapter 2 is to consider the sound studies discourse in relation to *The Childe Harold’s Pilgrimage* and observe any potential patterns through distant reading methods. I used the data from the word frequency calculations to build a spreadsheet identifying sound words and the geographic locations they occurred within. I started by manually combing through all of the word frequencies and documenting which sound words were used and how often. From there, I searched through my plaintext file of all *Childe Harold’s Pilgrimage* for each one of the words to record their poetic line and where the sound word took place. For example, Byron uses the word “accent” twice throughout the epic. I then searched for their relevant line. I then used contextual clues to deduce where each sound word occurred. For one instance of “accent,” Byron writes “that I in feeblest accents must adore.” This doesn’t immediately identify where the sound occurs; however, I based my decision on context. In the prior stanza Byron writes “O thou Parnassus whom I now survey/ Not in the frenzy of a dreamer eye.” I then deduced that the “accents” occur on or near the mountain structure of Parnassus, Greece.
+
+Once I combed through all 525 sound words and their locations, I then turned to Google Maps for the geographic coordinates. This process required me to brush up on my knowledge of global geography and research for alternative place names. For example, Byron uses the word “whisper” 6 times throughout the epic. In one instance of this, he writes: “And conscious Reason whispered to despise,” which I concluded to be in “Cintra” based on prior context. When I searched for Cintra, I only found the names of some European tech company. I then searched more broadly for “Cintra” across different countries and learned that Byron was actually referencing “Sintra Mountains” in Greece. The geographic coordinates I use are intended to indicate the general region that a sound word occurs in rather than a precise data point. 
+
+### Chapter 2 Methods
+
+    Step 1: Clean and Prepare [https://hornerholly.github.io/dissertation/2021/03/29/cleaning.html](https://hornerholly.github.io/dissertation/2021/03/29/cleaning.html)documents
+    
+    Step 2: Sort through data (manually combing through the list of all words to locate sound words)
+    
+    Step 3: Identify the lines and contexts for each sound word (Documented in excel file)
+    
+    Step 4: Identify coordinates of real locations for each sound word
+    
+    Step 5: Map coordinates in R [https://hornerholly.github.io/dissertation/2021/03/30/mapping.html](https://hornerholly.github.io/dissertation/2021/03/30/mapping.html). 
+    
+    

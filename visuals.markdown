@@ -9,7 +9,7 @@ permalink: /visual/
 The generated sound spectrum sample, featured below, is an alphabetized list of sound words from Wordsworth’s poetic canon. It illustrates where I suspect certain sound-words to fall on the harmonic-discordant sound spectrum on a scale of 1 to 10, with 1 representing the most harmonic, 10 being the most discordant, and 5.5 indicating silence or neutral sounds. I created the sound spectrum to help visualize that the harmonic to discordant scale is not a binary, but rather a complicated spectrum. The sharp peaks and valleys, almost like a heart out of rhythm, shows that Wordsworth’s sound language varies widely. As seen in Figure 1, “song” is a harmonic inflected word that ranks 1 out of 10 and “yell” is ranked 10 out of 10 on the discordance. Although not all 253 unique sound words are featured in Figure 1, the fully interactive sound spectrum on my website allows users to isolate particular words
 
 # Chapter 2: Byron and Sites of Sound
-
+The goal for this chapter is to consider the sound studies discourse in relation to The Childe Harold’s Pilgrimage and observe any potential patterns through distant reading methods. I used the data from the word frequency calculations to build a spreadsheet identifying sound words and the geographic locations they occurred within. I started by manually combing through all of the word frequencies and documenting which sound words were used and how often. From there, I searched through my plaintext file of all Childe Harold’s Pilgrimage for each one of the words to record their poetic line and where the sound word took place.  I then generated a map to illustrate where the sites of sound were located.
 
 # Chapter 3: Charlotte Smith and Space
 
