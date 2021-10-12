@@ -5,7 +5,7 @@ title: Corpus
 permalink: /corpus/
 ---
 
-Visit this site's [Github page](https://github.com/HornerHolly/dissertation) to access my cleaned digital editions of Charlotte Smith's *Elegaic Sonnets and Other Poems, Vol. 1* (1797) 6th edition, *Elegiac Sonnets and Other Poems, Vol. 2* (1797) 6th edition, and *Beachy Head: with other poems* (1807) second edition, *The Emigrants : a poem, in two books* (1793)
+Visit this site's [Github page](https://github.com/HornerHolly/dissertation/tree/main/Corpus) to access my cleaned digital editions of Charlotte Smith's *Elegaic Sonnets and Other Poems, Vol. 1* (1797) 6th edition, *Elegiac Sonnets and Other Poems, Vol. 2* (1797) 6th edition, and *Beachy Head: with other poems* (1807) second edition, *The Emigrants : a poem, in two books* (1793)
 
 # Metadata Dictionary
 The metadata table uses the following fields of categorization:
@@ -24,7 +24,8 @@ The metadata table uses the following fields of categorization:
 The file names for the individual plaintext versions of the poems are identified by volume abbreviation, page number, and shortened poem title. For example, "To Spring" from Elegiac Sonnets and Other Poems, Vol I is idenified as:
 
     - ESVI_8_tospring
-
+    
+# Metadata  Files for Poets
 <ul>
 {% for corpusmetadata in site.corpusmetadata %}
 <li>

@@ -18,6 +18,13 @@ Most recently, her work on Charlotte Smith has been featured in Tokyo, Japan for
 
 #### WORK HISTORY 
 
+##### Conscious Editing Assistant							Fall 2021-present
+
+
+##### Florida State University Research Assistant 					Fall 2020-Fall 2021
+	
+Worked as a personal research assistant for Dr. Judith Pascoe. I assisted with grading assignments from ENL 4240 (Fall 2020), developing and organizing Canvas course sites, and obtaining research materials (Spring 2021). 
+
 ##### *Florida State University Research Assistant*					(Fall 2020-present)
 
 	
@@ -27,9 +34,9 @@ Worked as a personal research assistant for Dr. Judith Pascoe. I assisted with g
 
 Worked as a Workshop Coordinator for the Prosopographies Data Repository Institute a Florida State University. This job required coordinating digital workshops, transcribing notes, communicating with the workshop participants, and assisting in the writing of a white paper and creation of other project outputs. 
 
-#####  *Florida State University Teacher’s Assistant* 				Summer 2015-present
+#####  *Florida State University Teacher’s Assistant* 				Summer 2015-Fall 2021
 
-Served as a Teacher’s Assistant at FSU and as the sole instructor for college composition courses (ENC 2135 and ENC 1101) and upper-level literature courses Introduction to English Studies (ENG 2012), Film Genres (ENG 3310), and Introduction to Literature (Lit 2000). These courses required detailed syllabi, weekly lesson plans, and meaningful interaction with a diverse range of students, including student-athletes, ESL students, and first-generation college students. These courses focus on preparing young scholars to think and write critically about subjects they feel passionately about. 	
+Served as a Teacher’s Assistant at FSU and as the sole instructor for college composition courses (ENC 2135 and ENC 1101) and upper-level literature courses Introduction to English Studies (ENG 2012), Film Genres (ENG 3310), Women in Literature (Fall 2021), and Introduction to Literature (Lit 2000). These courses required detailed syllabi, weekly lesson plans, and meaningful interaction with a diverse range of students, including student-athletes, ESL students, and first-generation college students. These courses focus on preparing young scholars to think and write critically about subjects they feel passionately about. 	
 
 ##### *Flagler College Writing Tutor* 		           	(Fall 2013- Spring 2015)
 
