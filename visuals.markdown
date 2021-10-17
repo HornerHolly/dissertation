@@ -11,7 +11,7 @@ The generated sound spectrum sample, featured below, is an alphabetized list of 
 # Chapter 2: Byron and Sites of Sound
 The goal for this chapter is to consider the sound studies discourse in relation to The Childe Harold’s Pilgrimage and observe any potential patterns through distant reading methods. I used the data from the word frequency calculations to build a spreadsheet identifying sound words and the geographic locations they occurred within. I started by manually combing through all of the word frequencies and documenting which sound words were used and how often. From there, I searched through my plaintext file of all Childe Harold’s Pilgrimage for each one of the words to record their poetic line and where the sound word took place.  I then generated a map to illustrate where the sites of sound were located.
 
-https://hornerhollyb.shinyapps.io/ByronMap/
+https://hornerholly.shinyapps.io/ByronMapApp/
 
 
 # Chapter 3: Charlotte Smith and Space
