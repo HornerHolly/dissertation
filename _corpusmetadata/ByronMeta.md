@@ -15,7 +15,7 @@ permalink: "/corpus/Byron/"
 
 
 # Byron Word Frequencies
-To access the totla word frequencies, [see this Github link.](https://github.com/HornerHolly/dissertation/blob/main/Corpus/Byron/ByronAll.csv)
+To access the total word frequencies, [see this Github link.](https://github.com/HornerHolly/dissertation/blob/main/Corpus/Byron/ByronAll.csv)
 
 # Byron Sound Words
 
