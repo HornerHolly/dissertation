@@ -12,6 +12,7 @@ The generated sound spectrum sample, featured below, is an alphabetized list of 
 
 ### Harmonic Sound Word Cloud
 ![assets/images/harmonic.png](assets/images/harmonic.png)
+
 For the full data set, please consult my Github page[https://github.com/HornerHolly/dissertation/blob/e252c299ad7ade752930b8441a9496cb4f6b9b9d/Csvfiles/Sound%20Spectrum%20-%20Sheet1.csv](https://github.com/HornerHolly/dissertation/blob/e252c299ad7ade752930b8441a9496cb4f6b9b9d/Csvfiles/Sound%20Spectrum%20-%20Sheet1.csv).
 
 # Chapter 2: Byron and Sites of Sound
