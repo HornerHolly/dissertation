@@ -9,9 +9,9 @@ permalink: /aboutme/
 
 ![picture](assets/images/about.png)
 
-Holly Horner is a fourth-year PhD candidate in Literature focusing on British Romantic literature and Digital Humanities. Her research interests include the nineteenth-century gothic novel, Romantic women poets, and digital applications to literary studies. She holds a B.A. in English from Flagler College and a M.A. from Florida State University.
+Holly Horner is a fifth-year PhD candidate in Literature focusing on British Romantic literature and Digital Humanities. Her research interests include the nineteenth-century gothic novel, Romantic women poets, and digital applications to literary studies. She holds a B.A. in English from Flagler College and a M.A. from Florida State University.
 
-Most recently, her work on Charlotte Smith has been featured in Tokyo, Japan for The Japanese Association for Digital Humanities (JADH) and Birmingham, Alabama for South Atlantic Modern Language Association (SAMLA). She is also a co-chair for the NASSR Graduate Student Caucus and the Institute Coordinator at FSU. 
+Most recently, her work on Charlotte Smith has been featured in Tokyo, Japan for The Japanese Association for Digital Humanities (JADH) and Birmingham, Alabama for South Atlantic Modern Language Association (SAMLA). She is currently employed as the Conscious Editing Assistant for Florida State University's Special Collections and Archives where she works to rectify problematic, harmful, and inaccurate record descriptions in the archives.
 
 ### Holly Horner CV
 
@@ -19,7 +19,7 @@ Most recently, her work on Charlotte Smith has been featured in Tokyo, Japan for
 #### WORK HISTORY 
 
 ##### Conscious Editing Assistant							Fall 2021-present
-
+worked as the Conscious Editing Assistant for Florida State University's Special Collections and Archives. I used a combination of computational queries and manual analyses to isolate archival records in need of re-description. 
 
 ##### Florida State University Research Assistant 					Fall 2020-Fall 2021
 	
@@ -70,13 +70,13 @@ BA in English 								 (Fall 2011- Spring 2015)
 I am majoring in Romantic-era poetry with a minor concentration in digital applications to literary studies. My research interests include the gothic, Romantic women poets, British imperialism, sound studies, and Digital Humanities. My on-going dissertation uses text-mining, topic modelling, and geo-spatial methods to consider the intersection of sound and nationalism in Romantic-era poetry. 
 
 #### SKILLS
-	I have experience in R Studio, Oxygen XML Editor, Github, and Markdown.
+	I have experience in R Studio, Oxygen XML Editor, Github, Markdown, and Nvivo.
 
 #### PROFESSIONALIZATION 
 ##### *Service*
 Instructor Mentor for ENG 2012, Fall 2019-Spring 2020
 Co-Chair for NASSR Graduate Student Caucus, Spring 2020
-Research Assistant for Dr. Judith Pascoe, Fall 2020-Spring 2021
+Research Assistant for Dr. Judith Pascoe, Fall 2020-Fall 2021
 Head Mentor for ENG 2012 Instructors, Summer-Fall 2020 
 
 ##### *Publications*
