@@ -18,9 +18,7 @@ In other words, there’s life-support for dissertation manuscripts upheld by th
 
 The easiest solution for this issue is to regularly check on link and revive the digital project if it falls back into a digital sleep; however, this is not always feasible due to the lack of womanpower and time. Unlike DigiNole’s digital repository of dissertation and thesis manuscripts that has a whole team of people dedicated to keeping the site up and running, my online maps only have a single user to keep them alive: me. As proud as I am of these maps, I do not want to spend the rest of my life maintaining them. 
 	
-Other creators of digital dissertation projects have run into the same issue. Amanda Visconti’s Infinite Ulysses project for creating a crowd-sourced annotated edition of Joyce’s Ulysses is no longer active. It remains as a static, digital object that “is an archival non-interactive version of the Infinite Ulysses project.”  This archived website acts as a digital tombstone for the original collaborative project, even bearing its short “lifespan” typed under the site updates: “March 2015-May 2016.” 
-	
-Although Visconti’s project is perhaps the most famous in DH circles, it is not the only digital project that reached its natural lifespan. Other digital works experienced a less dignified digital death than being “archived” and are reincarnated into the dreaded “404: Page Not Found” error. It’s only a matter of time before many digital scholarly projects become inaccessible. This could be for any number of reasons: 1) the project has reached a natural conclusion, 2) the creator no longer maintains it, and/or 3) the technology behind the project’s creation is no longer supported.
+Other creators of digital dissertation projects have run into the same issue. Amanda Visconti’s Infinite Ulysses project for creating a crowd-sourced annotated edition of Joyce’s Ulysses is no longer active. It remains as a static, digital object that “is an archival non-interactive version of the Infinite Ulysses project.”  This archived website acts as a digital tombstone for the original collaborative project, even bearing its short “lifespan” typed under the site updates: “March 2015-May 2016.”Although Visconti’s project is perhaps the most famous in DH circles, it is not the only digital project that reached its natural lifespan. Other digital works experienced a less dignified digital death than being “archived” and are reincarnated into the dreaded “404: Page Not Found” error. It’s only a matter of time before many digital scholarly projects become inaccessible. This could be for any number of reasons: 1) the project has reached a natural conclusion, 2) the creator no longer maintains it, and/or 3) the technology behind the project’s creation is no longer supported.
  
 Back in the Spring of 2018, I was asked to compile a list of DH projects about Romanticism for Dr. Judith Pascoe. One such resource I found was a database of digital projects concerning Romanticism by Alan Liu that, at the time, was a robust repository of information and had all functional links.  The resources he provided ranged from indexes, digital editions, chronologies, to digital archives. Out of curiosity, I returned to that catalog on February 17, 2022 to see which of the listed projects were no longer among the living. Due to the sheer scale of this database, I limited my search to the first section entitled “General Resources in Romanticism.” Out of the ten resources for this section, seven of them are now considered defunct projects. This graveyard of broken links illustrates digital projects’ relatively short lifespans (see table below). 
 
@@ -43,6 +41,6 @@ Will my project’s website be one of these archival objects? Probably not. One 
 
 
 
-***Rest in Peace**
-**DIGITAL APPROACHES TO SITES AND SOUND IN ROMANTIC POETRY**
-**July 2020-March 2022**
+## **Rest in Peace**
+# **DIGITAL APPROACHES TO SITES AND SOUND IN ROMANTIC POETRY**
+### **July 2020-March 2022**
