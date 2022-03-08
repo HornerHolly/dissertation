@@ -43,7 +43,6 @@ Will my project’s website be one of these archival objects? Probably not. One 
 
 
 
-**Rest in Peace
-DIGITAL APPROACHES TO SITES AND SOUND IN ROMANTIC POETRY
-July 2020-March 2022
-**
+***Rest in Peace**
+**DIGITAL APPROACHES TO SITES AND SOUND IN ROMANTIC POETRY**
+**July 2020-March 2022**
