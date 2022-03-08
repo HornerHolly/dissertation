@@ -36,7 +36,6 @@ Back in the Spring of 2018, I was asked to compile a list of DH projects about R
 On one hand, I admire Liu’s ambitious database. At one point, it had a wealth of information that I would have happily referred to my undergraduate students. On the other, I recognize that its information has an expiration date. This dual-sided dilemma is applicable to all digital objects on the internet. So, why bother create digital projects that are not feasible to preserve long-term? I would counter this question with another: why not? Although the platform will eventually expire, that doesn’t mean that the information provided is invaluable. During their heyday, these digital projects functioned as intended and distributed information accordingly. The same could be said for physical, ephemeral objects, such as magazines, and newspapers. The few digital projects that survive past their natural end can be viewed in a state of suspended animation, like Visconti’s Infinite Ulysses Project.
 
 Will my project’s website be one of these archival objects? Probably not. One day, someone is going to stumble upon my dissertation’s website and try to access the mapping visualizations for chapters 2 and 3, only to be brought to a “404: page not found” error. It will, however, survive through references and screenshots in my digitized dissertation. 
-
 Rest in Peace
 DIGITAL APPROACHES TO SITES AND SOUND IN ROMANTIC POETRY
 July 2020-March 2022
