@@ -5,6 +5,8 @@ date:   2022-03-8 10:21:16 -0500
 ---
 
 *March 8th, 2022*
+
+
 # DH GRAVEYARDS: THE AFTERLIVES OF DIGITAL PROJECTS
 
 As many anxious Ph.D. Candidates know, the dissertation’s manuscript clearance process is a trial in and of itself. There are a myriad of formatting and citation guidelines that must be followed to the letter. A submitted manuscript that fails to meet these expectations, as sternly stated under Florida State University’s Manuscript Clearance Information, “will NOT be reviewed and will NOT be considered as an initial submission to meet any deadline.” The manuscript clearance process’s enforcement of such deadlines and guidelines intends to prepare each dissertation for its “eternal” rest as a digital record in DigiNole’s “Research Repository,” which houses graduate theses and dissertations, undergraduate honor theses, and faculty publications.  Upon successfully completing one’s oral defense and overcoming the manuscript clearance process’s various hurdles, the dissertation is made digitally available on DigiNole where it will remain preserved like museum display for future viewers. 
