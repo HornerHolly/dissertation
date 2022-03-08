@@ -15,7 +15,7 @@ Visit this site's [Github page](https://github.com/HornerHolly/dissertation/tree
 
 **Chapter 3:**
     Charlotte Smith, *Elegiac Sonnets: And Other Poems, vol 1,* (London: T. Cadell, Junior, and W. Davies, 1797).
-    Charlotte Smith, *Elegiac Sonnets: And Other Poems, vol 2, *(London: T. Cadell, Junior, and W. Davies, 1797).
+    Charlotte Smith, *Elegiac Sonnets: And Other Poems, vol 2,* (London: T. Cadell, Junior, and W. Davies, 1797).
     Charlotte Smith, *Beachy Head: With Other Poems,* (London: J. Johnson, 1807).
     Charlotte Smith. *The Emigrants: A Poem, in Two Books*, (London: T. Cadell, 1793). 
 
