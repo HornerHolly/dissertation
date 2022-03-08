@@ -9,11 +9,11 @@ permalink: /aboutme/
 
 ![picture](assets/images/about.png)
 
-Holly Horner is a fifth-year PhD candidate in Literature focusing on British Romantic literature and Digital Humanities. Her research interests include the nineteenth-century gothic novel, Romantic women poets, and digital applications to literary studies. She holds a B.A. in English from Flagler College and a M.A. from Florida State University.
+Holly Propper is a fifth-year PhD candidate in Literature focusing on British Romantic literature and Digital Humanities. Her research interests include the nineteenth-century gothic novel, Romantic women poets, and digital applications to literary studies. She holds a B.A. in English from Flagler College and a M.A. from Florida State University.
 
 Most recently, her work on Charlotte Smith has been featured in Tokyo, Japan for The Japanese Association for Digital Humanities (JADH) and Birmingham, Alabama for South Atlantic Modern Language Association (SAMLA). She is currently employed as the Conscious Editing Assistant for Florida State University's Special Collections and Archives where she works to rectify problematic, harmful, and inaccurate record descriptions in the archives.
 
-### Holly Horner CV
+### Holly Propper CV
 
 
 #### WORK HISTORY 
