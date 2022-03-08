@@ -16,6 +16,15 @@ This website is an extension of my dissertation on sound, space, and DH methods 
 
 The question at hand is: How do I write a dissertation that accomplishes both objectives? Because the original model of a traditional literary dissertation doesn’t really fit with what I am trying to accomplish, I need to reevaluate how I present my research and the labor and effort I put into my digital tools.
 
+# Repository Contents
+
+ This repository contains...
+- the plain-text and CSV files for the entire corpus;
+- blog posts documenting my progress working on this dissertation;
+- corpus metadata;
+- the Zotero bibliography for this project;
+- the data visualizations (the sound spectrum, Bryon's Sites of Sound, and Smith's Local Geographies)
+
 # Data Dictionary
 
 The metadata table uses the following fields of categorization:
