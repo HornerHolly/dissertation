@@ -39,8 +39,6 @@ On one hand, I admire Liu’s ambitious database. At one point, it had a wealth 
 
 Will my project’s website be one of these archival objects? Probably not. One day, someone is going to stumble upon my dissertation’s website and try to access the mapping visualizations for chapters 2 and 3, only to be brought to a “404: page not found” error. It will, however, survive through references and screenshots in my digitized dissertation. 
 
-
-
 ## **Rest in Peace**
-# **DIGITAL APPROACHES TO SITES AND SOUND IN ROMANTIC POETRY**
+## **DIGITAL APPROACHES TO SITES AND SOUND IN ROMANTIC POETRY**
 ### **July 2020-March 2022**
